@@ -1,5 +1,5 @@
 # The Global South is disproportionately vulnerable to rapid increases in coastal flooding
-Thompson et al. (2024), *Submitted to Nature Climate Change*, doi:[????](https://doi.org/????)
+Thompson et al. (2024), *Submitted to Nature Climate Change*, doi:[TBD](https://doi.org/????)
 
 This repository contains the code and notebooks used to produce the results and figures presented in the paper cited above. For best results, run this code in a virtual environment generated from the requirements.txt file in the root directory of this repository. A description of the contents of this repository follows:
 
