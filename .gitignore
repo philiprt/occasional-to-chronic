@@ -1,5 +1,6 @@
 occasional_to_chronic/kyra/
 occasional_to_chronic/data/tide_predictions/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
