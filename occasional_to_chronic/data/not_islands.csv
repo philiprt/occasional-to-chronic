@@ -1,0 +1,117 @@
+uhid,name,country,lon,lat
+700,Faraday,Antarctica,295.733,-65.25
+600,Ushuaia,Argentina,291.705,-54.805
+286,Puerto Deseado,Argentina,294.083,-47.75
+731,Puerto Madryn,Argentina,294.97,-42.763
+729,Mar del Plata,Argentina,302.462,-38.035
+171,Cocos,Australia,96.9,-12.117
+168,Darwin,Australia,130.85,-12.467
+166,Broome,Australia,122.217,-18.0
+334,Townsville,Australia,146.833,-19.25
+332,Bundaberg,Australia,152.35,-24.833
+331,Brisbane,Australia,153.167,-27.367
+128,Thevenard,Australia,133.64,-32.15
+333,Fort Denison,Australia,151.233,-33.85
+175,Fremantle,Australia,115.733,-32.05
+129,"Portland, S.Aus.",Australia,141.613,-38.343
+335,Spring Bay,Australia,147.933,-42.55
+176,Esperance,Australia,121.9,-33.867
+257,Settlement Point,Bahamas (the),281.017,26.69
+124,Chittagong,Bangladesh,91.827,22.237
+283,Fortaleza,Brazil,321.533,-3.717
+708,"Salvador, USCGS",Brazil,321.483,-12.967
+235,Palmeira,Cabo Verde,337.017,16.75
+833,Nain,Canada,298.3,56.55
+542,Tofino,Canada,234.083,49.15
+540,Prince Rupert,Canada,229.667,54.317
+684,Puerto Montt,Chile,287.033,-41.483
+737,San Andres,Colombia,278.298,12.568
+268,Limon,Costa Rica,276.967,10.0
+878,Bullen Bay,Curacao,290.98,12.187
+299,Qaqortoq,Denmark,313.967,60.717
+786,Roseau,Dominica,298.6,15.3
+777,Puerto Plata,Dominican Republic (the),289.3,19.8
+776,Punta Cana,Dominican Republic (the),291.62,18.5
+402,Lautoka,Fiji,177.433,-17.6
+271,Fort de France,France,298.933,14.6
+824,Marseille,France,5.35,43.3
+822,Brest,France,355.5,48.383
+164,Reunion,France,55.293,-20.923
+825,Cuxhaven,Germany,8.717,53.867
+789,Prickley Bay,Grenada,298.233,12.0
+163,Benoa,Indonesia,115.21,-8.745
+123,Sabang,Indonesia,95.333,5.833
+835,Castletownbere,Ireland,350.817,51.533
+353,Kushimoto,Japan,135.783,33.467
+347,Abashiri,Japan,144.283,44.017
+354,Aburatsu,Japan,131.417,31.567
+365,Ishigaki,Japan,124.15,24.333
+363,Nishinoomote,Japan,130.995,30.732
+345,Nakano Shima,Japan,129.85,29.833
+356,Maisaka,Japan,137.617,34.683
+362,Nagasaki,Japan,129.867,32.733
+352,Mera,Japan,139.833,34.917
+359,Naze,Japan,129.498,28.378
+349,Toyama,Japan,137.217,36.767
+351,Ofunato,Japan,141.717,39.067
+360,Wakkanai,Japan,141.683,45.4
+364,Hakodate,Japan,140.733,41.783
+350,Kushiro,Japan,144.383,42.967
+348,Hamada,Japan,132.067,34.9
+355,Naha,Japan,127.667,26.217
+149,Lamu,Kenya,40.903,-2.272
+101,Mombasa,Kenya,39.657,-4.07
+117,Hanimaadhoo,Maldives,73.167,6.767
+108,Male,Maldives,73.533,4.183
+109,Gan,Maldives,73.152,-0.687
+105,Rodrigues,Mauritius,63.418,-19.668
+103,Port Louis,Mauritius,57.495,-20.155
+403,Jackson,New Zealand,168.617,-43.983
+114,Salalah,Oman,54.007,16.935
+147,Karachi,Pakistan,66.967,24.8
+739,El Porvenir,Panama,281.052,9.558
+400,Lombrum,Papua New Guinea,147.367,-2.033
+94,Matarani,Peru,287.892,-17.002
+370,Manila,Philippines (the),120.967,14.583
+372,Davao,Philippines (the),125.633,7.083
+371,Legaspi,Philippines (the),123.75,13.15
+382,Subic Bay,Philippines (the),120.252,14.765
+211,Ponta Delgada,Portugal,334.327,37.735
+401,Apia,Samoa,188.25,-13.817
+121,Pt. La Rue,Seychelles,55.528,-4.672
+181,Durban,South Africa,31.0,-29.883
+221,Simon's Town,South Africa,18.433,-34.183
+184,Port Elizabeth,South Africa,25.63,-33.96
+830,La Coruna,Spain,351.6,43.367
+207,Ceuta,Spain,354.683,35.9
+115,Colombo,Sri Lanka,79.858,6.963
+826,Stockholm,Sweden,18.083,59.317
+151,Zanzibar,"Tanzania, United Republic of",39.19,-6.155
+290,Port Stanley,United Kingdom of Great Britain and Northern Ireland (the),302.067,-51.75
+104,Diego Garcia,United Kingdom of Great Britain and Northern Ireland (the),72.393,-7.29
+259,Bermuda,United Kingdom of Great Britain and Northern Ireland (the),295.297,32.373
+559,"Sitka, AK",United States of America (the),224.658,57.052
+558,"Neah Bay, WA",United States of America (the),235.383,48.368
+571,"Ketchikan, AK",United States of America (the),228.375,55.333
+592,"South Beach, OR",United States of America (the),235.957,44.625
+570,"Yakutat, AK",United States of America (the),220.265,59.547
+574,"Sand Point, AK",United States of America (the),199.498,55.337
+560,"Seward, AK",United States of America (the),210.573,60.12
+752,"Fort Pulaski, GA",United States of America (the),279.098,32.033
+253,"Newport, RI",United States of America (the),288.673,41.505
+245,"San Juan, PR",United States of America (the),293.883,18.46
+595,"Nome, AK",United States of America (the),194.57,64.5
+552,Kawaihae,United States of America (the),204.167,20.033
+547,"Barbers Point, HI",United States of America (the),201.88,21.322
+242,"Key West, FL",United States of America (the),278.192,24.553
+755,"Virginia Key, FL",United States of America (the),279.838,25.732
+556,"Crescent City, CA",United States of America (the),235.817,41.745
+775,"Galveston, Pier 21",United States of America (the),265.207,29.31
+569,San Diego,United States of America (the),242.827,32.715
+261,"Charleston, SC",United States of America (the),280.067,32.783
+554,"La Jolla, CA",United States of America (the),242.742,32.867
+260,"Duck Pier, NC",United States of America (the),284.26,36.183
+551,"San Francisco, CA",United States of America (the),237.535,37.807
+264,Atlantic City,United States of America (the),285.582,39.355
+762,"Pensacola, FL",United States of America (the),272.787,30.403
+579,"Prudhoe Bay, AK",United States of America (the),211.473,70.4

@@ -1,0 +1,178 @@
+uhslc_id,latitude,longitude,station_name,station_country,station_country_code,station_country_alpha3,hdi
+700,-65.25,295.733,Faraday,Antarctica,10,ATA,
+730,-62.483,300.333,Base Prat,Chile,152,CHL,0.855
+600,-54.805,291.705,Ushuaia,Argentina,32,ARG,0.842
+290,-51.75,302.067,Port Stanley,United Kingdom of Great Britain and Northern Ireland (the),826,GBR,0.929
+286,-47.75,294.083,Puerto Deseado,Argentina,32,ARG,0.842
+403,-43.983,168.617,Jackson,New Zealand,554,NZL,0.937
+731,-42.763,294.97,Puerto Madryn,Argentina,32,ARG,0.842
+335,-42.55,147.933,Spring Bay,Australia,36,AUS,0.951
+684,-41.483,287.033,Puerto Montt,Chile,152,CHL,0.855
+129,-38.343,141.613,"Portland, S.Aus.",Australia,36,AUS,0.951
+729,-38.035,302.462,Mar del Plata,Argentina,32,ARG,0.842
+221,-34.183,18.433,Simon's Town,South Africa,710,ZAF,0.713
+184,-33.96,25.63,Port Elizabeth,South Africa,710,ZAF,0.713
+176,-33.867,121.9,Esperance,Australia,36,AUS,0.951
+333,-33.85,151.233,Fort Denison,Australia,36,AUS,0.951
+21,-33.622,281.167,Juan Fernandez,Chile,152,CHL,0.855
+81,-33.033,288.367,Valparaiso,Chile,152,CHL,0.855
+128,-32.15,133.64,Thevenard,Australia,36,AUS,0.951
+175,-32.05,115.733,Fremantle,Australia,36,AUS,0.951
+181,-29.883,31.0,Durban,South Africa,710,ZAF,0.713
+331,-27.367,153.167,Brisbane,Australia,36,AUS,0.951
+22,-27.15,250.552,Easter,Chile,152,CHL,0.855
+88,-27.067,289.167,Caldera,Chile,152,CHL,0.855
+35,-26.283,279.867,San Felix,Chile,152,CHL,0.855
+332,-24.833,152.35,Bundaberg,Australia,36,AUS,0.951
+80,-23.65,289.6,Antofagasta,Chile,152,CHL,0.855
+16,-23.125,225.047,Rikitea,France,250,FRA,0.903
+23,-21.207,200.225,Rarotonga,Cook Islands (the),184,COK,0.937
+38,-21.133,184.833,Nuku'alofa,Tonga,776,TON,0.745
+164,-20.923,55.293,Reunion,France,250,FRA,0.903
+103,-20.155,57.495,Port Louis,Mauritius,480,MUS,0.802
+105,-19.668,63.418,Rodrigues,Mauritius,480,MUS,0.802
+334,-19.25,146.833,Townsville,Australia,36,AUS,0.951
+598,-19.033,190.083,Alofi,Niue,570,NIU,0.937
+83,-18.467,289.667,Arica,Chile,152,CHL,0.855
+18,-18.132,178.427,Suva,Fiji,242,FJI,0.73
+166,-18.0,122.217,Broome,Australia,36,AUS,0.951
+46,-17.767,168.3,Port Vila,Vanuatu,548,VUT,0.607
+402,-17.6,177.433,Lautoka,Fiji,242,FJI,0.73
+15,-17.525,210.433,Papeete,France,250,FRA,0.903
+94,-17.002,287.892,Matarani,Peru,604,PER,0.762
+56,-14.283,189.317,Pago Pago,American Samoa,16,ASM,0.921
+401,-13.817,188.25,Apia,Samoa,882,WSM,0.707
+708,-12.967,321.483,"Salvador, USCGS",Brazil,76,BRA,0.754
+155,-12.78,45.257,Dzaoudzi,France,250,FRA,0.903
+168,-12.467,130.85,Darwin,Australia,36,AUS,0.951
+171,-12.117,96.9,Cocos,Australia,36,AUS,0.951
+17,-9.81,220.973,Hiva Oa,France,250,FRA,0.903
+9,-9.425,159.957,Honiara,Solomon Islands,90,SLB,0.564
+24,-8.977,201.947,Penrhyn,Cook Islands (the),184,COK,0.937
+31,-8.93,219.918,Nuku Hiva,France,250,FRA,0.903
+163,-8.745,115.21,Benoa,Indonesia,360,IDN,0.705
+25,-8.525,179.195,Funafuti,Tuvalu,798,TUV,0.641
+162,-7.752,109.017,Cilicap,Indonesia,360,IDN,0.705
+104,-7.29,72.393,Diego Garcia,United Kingdom of Great Britain and Northern Ireland (the),826,GBR,0.929
+151,-6.155,39.19,Zanzibar,"Tanzania, United Republic of",834,TZA,0.549
+121,-4.672,55.528,Pt. La Rue,Seychelles,690,SYC,0.785
+92,-4.582,278.718,Talara,Peru,604,PER,0.762
+101,-4.07,39.657,Mombasa,Kenya,404,KEN,0.575
+283,-3.717,321.533,Fortaleza,Brazil,76,BRA,0.754
+13,-2.81,188.282,Kanton,Kiribati,296,KIR,0.624
+149,-2.272,40.903,Lamu,Kenya,404,KEN,0.575
+91,-2.2,279.083,La Libertad,Ecuador,218,ECU,0.74
+400,-2.033,147.367,Lombrum,Papua New Guinea,598,PNG,0.558
+30,-0.753,269.688,Santa Cruz,Ecuador,218,ECU,0.74
+109,-0.687,73.152,Gan,Maldives,462,MDV,0.747
+3,-0.435,269.715,Baltra,Ecuador,218,ECU,0.74
+29,1.098,154.777,Kapingamarangi,Micronesia (Federated States of),583,FSM,0.628
+2,1.362,172.93,"Tarawa, Bairiki",Kiribati,296,KIR,0.624
+33,1.438,125.19,Bitung,Indonesia,360,IDN,0.705
+108,4.183,73.533,Male,Maldives,462,MDV,0.747
+123,5.833,95.333,Sabang,Indonesia,360,IDN,0.705
+43,5.872,197.912,Palmyra Island,United States of America (the),840,USA,0.921
+117,6.767,73.167,Hanimaadhoo,Maldives,462,MDV,0.747
+115,6.963,79.858,Colombo,Sri Lanka,144,LKA,0.782
+1,6.978,158.197,Pohnpei,Micronesia (Federated States of),583,FSM,0.628
+372,7.083,125.633,Davao,Philippines (the),608,PHL,0.699
+5,7.107,171.373,Majuro,Marshall Islands (the),584,MHL,0.639
+7,7.33,134.463,Malakal,Palau,585,PLW,0.767
+54,7.45,151.85,Chuuk,Micronesia (Federated States of),583,FSM,0.628
+55,8.733,167.733,Kwajalein,Marshall Islands (the),584,MHL,0.639
+87,9.4,275.833,Quepos,Costa Rica,188,CRI,0.809
+8,9.508,138.128,Yap,Micronesia (Federated States of),583,FSM,0.628
+739,9.558,281.052,El Porvenir,Panama,591,PAN,0.805
+268,10.0,276.967,Limon,Costa Rica,188,CRI,0.809
+738,11.235,285.778,Santa Marta,Colombia,170,COL,0.752
+789,12.0,298.233,Prickley Bay,Grenada,308,GRD,0.795
+878,12.187,290.98,Bullen Bay,Curacao,531,CUW,0.941
+737,12.568,278.298,San Andres,Colombia,170,COL,0.752
+371,13.15,123.75,Legaspi,Philippines (the),608,PHL,0.699
+53,13.433,144.65,Guam,United States of America (the),840,USA,0.921
+82,13.583,270.167,Acajutla,El Salvador,222,SLV,0.675
+655,13.817,120.202,Lubang,Philippines (the),608,PHL,0.699
+370,14.583,120.967,Manila,Philippines (the),608,PHL,0.699
+271,14.6,298.933,Fort de France,France,250,FRA,0.903
+382,14.765,120.252,Subic Bay,Philippines (the),608,PHL,0.699
+786,15.3,298.6,Roseau,Dominica,212,DMA,0.72
+52,16.75,190.483,Johnston,United States of America (the),840,USA,0.921
+235,16.75,337.017,Palmeira,Cabo Verde,132,CPV,0.662
+114,16.935,54.007,Salalah,Oman,512,OMN,0.816
+806,18.1,344.05,Nouakchott,Mauritania,478,MRT,0.556
+245,18.46,293.883,"San Juan, PR",United States of America (the),840,USA,0.921
+776,18.5,291.62,Punta Cana,Dominican Republic (the),214,DOM,0.767
+799,18.567,287.65,Portu-Prince,Haiti,332,HTI,0.535
+51,19.283,166.617,Wake,United States of America (the),840,USA,0.921
+60,19.733,204.933,"Hilo, Hawaii",United States of America (the),840,USA,0.921
+777,19.8,289.3,Puerto Plata,Dominican Republic (the),214,DOM,0.767
+552,20.033,204.167,Kawaihae,United States of America (the),840,USA,0.921
+907,20.15,92.9,Akyab (Sittwe),Myanmar,104,MMR,0.585
+59,20.9,203.533,Kahului,United States of America (the),840,USA,0.921
+57,21.307,202.133,"Honolulu, Hawaii",United States of America (the),840,USA,0.921
+547,21.322,201.88,"Barbers Point, HI",United States of America (the),840,USA,0.921
+61,21.433,202.2,Mokuoloe,United States of America (the),840,USA,0.921
+58,21.967,200.65,Nawiliwili,United States of America (the),840,USA,0.921
+124,22.237,91.827,Chittagong,Bangladesh,50,BGD,0.661
+49,24.3,153.967,Minamitorishima,Japan,392,JPN,0.925
+365,24.333,124.15,Ishigaki,Japan,392,JPN,0.925
+242,24.553,278.192,"Key West, FL",United States of America (the),840,USA,0.921
+147,24.8,66.967,Karachi,Pakistan,586,PAK,0.544
+755,25.732,279.838,"Virginia Key, FL",United States of America (the),840,USA,0.921
+355,26.217,127.667,Naha,Japan,392,JPN,0.925
+257,26.69,281.017,Settlement Point,Bahamas (the),44,BHS,0.812
+47,27.1,142.183,Chichijima,Japan,392,JPN,0.925
+50,28.217,182.633,Midway,United States of America (the),840,USA,0.921
+359,28.378,129.498,Naze,Japan,392,JPN,0.925
+775,29.31,265.207,"Galveston, Pier 21",United States of America (the),840,USA,0.921
+345,29.833,129.85,Nakano Shima,Japan,392,JPN,0.925
+762,30.403,272.787,"Pensacola, FL",United States of America (the),840,USA,0.921
+363,30.732,130.995,Nishinoomote,Japan,392,JPN,0.925
+354,31.567,131.417,Aburatsu,Japan,392,JPN,0.925
+752,32.033,279.098,"Fort Pulaski, GA",United States of America (the),840,USA,0.921
+259,32.373,295.297,Bermuda,United Kingdom of Great Britain and Northern Ireland (the),826,GBR,0.929
+569,32.715,242.827,San Diego,United States of America (the),840,USA,0.921
+362,32.733,129.867,Nagasaki,Japan,392,JPN,0.925
+261,32.783,280.067,"Charleston, SC",United States of America (the),840,USA,0.921
+554,32.867,242.742,"La Jolla, CA",United States of America (the),840,USA,0.921
+353,33.467,135.783,Kushimoto,Japan,392,JPN,0.925
+356,34.683,137.617,Maisaka,Japan,392,JPN,0.925
+348,34.9,132.067,Hamada,Japan,392,JPN,0.925
+352,34.917,139.833,Mera,Japan,392,JPN,0.925
+207,35.9,354.683,Ceuta,Spain,724,ESP,0.905
+260,36.183,284.26,"Duck Pier, NC",United States of America (the),840,USA,0.921
+349,36.767,137.217,Toyama,Japan,392,JPN,0.925
+211,37.735,334.327,Ponta Delgada,Portugal,620,PRT,0.866
+551,37.807,237.535,"San Francisco, CA",United States of America (the),840,USA,0.921
+209,38.692,350.583,Cascais,Portugal,620,PRT,0.866
+351,39.067,141.717,Ofunato,Japan,392,JPN,0.925
+264,39.355,285.582,Atlantic City,United States of America (the),840,USA,0.921
+253,41.505,288.673,"Newport, RI",United States of America (the),840,USA,0.921
+556,41.745,235.817,"Crescent City, CA",United States of America (the),840,USA,0.921
+364,41.783,140.733,Hakodate,Japan,392,JPN,0.925
+350,42.967,144.383,Kushiro,Japan,392,JPN,0.925
+824,43.3,5.35,Marseille,France,250,FRA,0.903
+830,43.367,351.6,La Coruna,Spain,724,ESP,0.905
+347,44.017,144.283,Abashiri,Japan,392,JPN,0.925
+592,44.625,235.957,"South Beach, OR",United States of America (the),840,USA,0.921
+360,45.4,141.683,Wakkanai,Japan,392,JPN,0.925
+558,48.368,235.383,"Neah Bay, WA",United States of America (the),840,USA,0.921
+822,48.383,355.5,Brest,France,250,FRA,0.903
+542,49.15,234.083,Tofino,Canada,124,CAN,0.936
+835,51.533,350.817,Castletownbere,Ireland,372,IRL,0.945
+40,51.858,183.365,"Adak, Alaska",United States of America (the),840,USA,0.921
+825,53.867,8.717,Cuxhaven,Germany,276,DEU,0.942
+41,53.88,193.462,"Dutch Harbor, AK",United States of America (the),840,USA,0.921
+540,54.317,229.667,Prince Rupert,Canada,124,CAN,0.936
+571,55.333,228.375,"Ketchikan, AK",United States of America (the),840,USA,0.921
+574,55.337,199.498,"Sand Point, AK",United States of America (the),840,USA,0.921
+834,55.367,352.667,Malin Head,Ireland,372,IRL,0.945
+833,56.55,298.3,Nain,Canada,124,CAN,0.936
+559,57.052,224.658,"Sitka, AK",United States of America (the),840,USA,0.921
+39,57.732,207.488,"Kodiak Isl., Alaska",United States of America (the),840,USA,0.921
+826,59.317,18.083,Stockholm,Sweden,752,SWE,0.947
+570,59.547,220.265,"Yakutat, AK",United States of America (the),840,USA,0.921
+560,60.12,210.573,"Seward, AK",United States of America (the),840,USA,0.921
+299,60.717,313.967,Qaqortoq,Denmark,208,DNK,0.948
+595,64.5,194.57,"Nome, AK",United States of America (the),840,USA,0.921
+579,70.4,211.473,"Prudhoe Bay, AK",United States of America (the),840,USA,0.921
