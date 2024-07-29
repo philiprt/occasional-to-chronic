@@ -1,7 +1,7 @@
 # The Global South is disproportionately vulnerable to rapid increases in coastal flooding
-Thompson et al. (2024), *Submitted to Nature Climate Change*, doi:[TBD](https://doi.org/????)
+Thompson et al. (2024), *Submitted to Nature Climate Change*, doi: [TBD](https://doi.org/????)
 
-This repository contains the code and notebooks used to produce the results and figures presented in the paper cited above. For best results, run this code in a virtual environment generated from the requirements.txt file in the root directory of this repository. A description of the contents of this repository follows:
+This repository contains the code and notebooks used to produce the results and figures presented in the paper cited above. For best results, run this code in a virtual environment generated from the provided `requirements.txt` file. A description of the contents of this repository follows, where all paths hereafter are relative to the top-level `occasional_to_chronic/` directory.
 
 ## Tide-gauge sea-level data
 The `data/tide_gauge_data` directory contains the hourly tide-gauge sea-level data used in this work. It was obtained from the [UH Sea Level Center](https://uhslc.soest.hawaii.edu) and can be updated if desired using one of the options [here](https://uhslc.soest.hawaii.edu/datainfo).
