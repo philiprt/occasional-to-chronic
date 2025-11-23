@@ -1,0 +1,323 @@
+latitude	longitude	station_name	station_country	station_country_code	record_id	uhslc_id	gloss_id	ssc_id	last_rq_date
+-69.0	39.6	Syowa, Antarctica	Antarctica	10	1270	127	95	syow	2015-12-30T22:59:59Z
+-68.45	77.967	Davis	Australia	36	1730	173	277	davi	2010-01-27T22:59:59Z
+-67.6	62.867	Mawson	Australia	36	1770	177	22	maws	2009-12-20T22:59:59Z
+-66.662	140.01	Dumont d'Urville	Antarctica	10	1890	189	131	dumo	2010-08-18T22:59:59Z
+-66.283	110.533	Casey	Australia	36	1300	130	278	case	2008-11-15T22:59:59Z
+-65.25	295.733	Faraday	Antarctica	10	7000	700	188	vern	2018-12-31T22:59:59Z
+-63.395	303.005	Esperanza	Argentina	32	6010	601	185	espr	1998-08-30T22:59:59Z
+-62.483	300.333	Base Prat	Chile	152	7300	730	189	prat	2018-12-31T22:59:59Z
+-54.805	291.705	Ushuaia	Argentina	32	6000	600	181	ushu	2018-12-31T22:59:59Z
+-54.483	158.967	Macquarie Is.	Australia	36	6800	680	130	macq	2007-01-30T22:59:59Z
+-51.75	302.067	Port Stanley	United Kingdom of Great Britain and Northern Ireland (the)	826	2900	290	305	stan	2014-01-31T22:59:59Z
+-49.345	70.22	Kerguelen	France	250	1800	180	23	kerg	2012-12-31T22:59:59Z
+-47.75	294.083	Puerto Deseado	Argentina	32	2860	286	190	dese	2018-12-31T22:59:59Z
+-46.867	37.867	Marion Island	South Africa	710	9200	920	20	mais	
+-46.6	168.333	Bluff	New Zealand	554	720	72	129	bluf	2019-12-30T22:59:59Z
+-46.425	51.87	Crozet	France	250	1780	178	21	croz	2001-07-28T22:59:59Z
+-43.983	168.617	Jackson	New Zealand	554	4030	403		jack	2021-12-31T22:59:59Z
+-43.947	183.438	Chatham	New Zealand	554	790	79	128	wait	2010-09-30T22:59:59Z
+-42.763	294.97	Puerto Madryn	Argentina	32	7310	731	191	madry	2018-12-31T22:59:59Z
+-42.55	147.933	Spring Bay	Australia	36	3350	335	56	sprg	2021-12-31T22:59:59Z
+-41.483	287.033	Puerto Montt	Chile	152	6840	684	178	pmon	2018-12-31T22:59:59Z
+-41.283	174.783	Wellington	New Zealand	554	710	71	101	wlgt	2019-12-30T22:59:59Z
+-38.712	77.538	Saint Paul	France	250	1790	179	24	stpa	2006-12-23T22:59:59Z
+-38.343	141.613	Portland, S.Aus.	Australia	36	1290	129	55	porl	2021-12-31T22:59:59Z
+-38.035	302.462	Mar del Plata	Argentina	32	7290	729	192	plat	2018-12-31T22:59:59Z
+-34.183	18.433	Simon's Town	South Africa	710	2210	221	268	sitin	2018-12-30T22:59:59Z
+-34.083	23.05	Knysna	South Africa	710	1860	186		knys	2016-12-30T22:59:59Z
+-34.067	22.333	Mossel Bay	South Africa	710	1850	185		moss	2016-12-30T22:59:59Z
+-33.96	25.63	Port Elizabeth	South Africa	710	1840	184	76	prte	2018-12-30T22:59:59Z
+-33.9	18.417	Cape Town	South Africa	710	7040	704		cape	2014-12-31T22:59:59Z
+-33.867	121.9	Esperance	Australia	36	1760	176	54	espe	2021-12-31T22:59:59Z
+-33.85	151.233	Fort Denison	Australia	36	3330	333	57	sydn	2021-12-31T22:59:59Z
+-33.622	281.167	Juan Fernandez	Chile	152	210	21	176	juan	2018-12-31T22:59:59Z
+-33.033	288.367	Valparaiso	Chile	152	810	81	175	valp	2018-12-31T22:59:59Z
+-33.017	17.95	Saldahna Bay	South Africa	710	7030	703		sald	2016-08-20T22:59:59Z
+-33.0	27.917	East London	South Africa	710	1870	187		ealo	2016-12-30T22:59:59Z
+-32.15	133.64	Thevenard	Australia	36	1280	128	308	thev	2021-12-31T22:59:59Z
+-32.05	115.733	Fremantle	Australia	36	1750	175	53	frem	2021-12-31T22:59:59Z
+-31.533	159.067	Lord Howe	Australia	36	3990	399	148	lord	
+-29.883	31.0	Durban	South Africa	710	1810	181	13	durb	2018-12-30T22:59:59Z
+-29.283	16.85	Port Nolloth	South Africa	710	7010	701		ptno	
+-28.8	32.083	Richard's Bay	South Africa	710	1880	188		rich	2016-12-28T22:59:59Z
+-27.367	153.167	Brisbane	Australia	36	3310	331	58	bris	2021-12-31T22:59:59Z
+-27.15	250.552	Easter	Chile	152	220	22	137	east	2018-12-26T22:59:59Z
+-27.067	289.167	Caldera	Chile	152	880	88		cald	1998-12-31T22:59:59Z
+-26.65	15.15	Luderitz	South Africa	710	7020	702		lude	2015-10-27T22:59:59Z
+-26.283	279.867	San Felix	Chile	152	350	35	177	sanf	2018-12-31T22:59:59Z
+-25.017	312.075	Cananeia	Brazil	76	2810	281	194	cana	
+-24.883	113.617	Carnarvon	Australia	36	1670	167	52	carn	
+-24.833	152.35	Bundaberg	Australia	36	3320	332	59	burn	2021-12-31T22:59:59Z
+-23.917	35.5	Inhambane	Mozambique	508	9000	900	10	inha	2011-09-27T22:59:59Z
+-23.65	289.6	Antofagasta	Chile	152	800	80	174	anto	2018-12-31T22:59:59Z
+-23.342	210.525	Tubuai	France	250	4560	456	356	tubua	
+-23.125	225.047	Rikitea	France	250	160	16	138	riki	2024-12-31T22:59:59Z
+-22.95	14.5	Walvis Bay	Namibia	516	2200	220	314	walvi	2015-12-03T22:59:59Z
+-22.897	316.835	Ilha Fiscal, RJ	Brazil	76	2800	280	195	rioj	
+-22.25	166.437	Noumea	France	250	190	19	123	numbo	2018-12-31T22:59:59Z
+-21.207	200.225	Rarotonga	Cook Islands (the)	184	230	23	139	raro	2021-12-31T22:59:59Z
+-21.133	184.833	Nuku'alofa	Tonga	776	380	38	125	nkfa	2021-12-31T22:59:59Z
+-20.923	55.293	Reunion	France	250	1640	164	17	reun	2018-12-31T22:59:59Z
+-20.317	118.567	Port Hedland	Australia	36	1690	169	51	pthe	
+-20.155	57.495	Port Louis	Mauritius	480	1030	103	18	ptlu	2018-12-31T22:59:59Z
+-19.668	63.418	Rodrigues	Mauritius	480	1050	105	19	rodr	2017-09-04T22:59:59Z
+-19.25	146.833	Townsville	Australia	36	3340	334	60	ferg	2021-12-31T22:59:59Z
+-19.033	190.083	Alofi	Niue	570	5980	598		alof	2020-01-17T22:59:59Z
+-18.467	289.667	Arica	Chile	152	830	83		aric	2024-12-31T22:59:59Z
+-18.132	178.427	Suva	Fiji	242	180	18	122	viti	2021-12-31T22:59:59Z
+-18.0	122.217	Broome	Australia	36	1660	166	40	brom	2021-12-31T22:59:59Z
+-17.767	168.3	Port Vila	Vanuatu	548	460	46	348	vanu	2021-12-31T22:59:59Z
+-17.6	177.433	Lautoka	Fiji	242	4020	402		levu	2021-12-21T22:59:59Z
+-17.525	210.433	Papeete	France	250	150	15	140	pape	2018-12-31T22:59:59Z
+-17.002	287.892	Matarani	Peru	604	940	94		mata	2019-12-31T22:59:59Z
+-16.598	216.338	Makemo	French Polynesia	258	4540	454	354	make	
+-15.967	354.3	St. Helena	Saint Helena, Ascension and Tristan da Cunha	654	2920	292	264	sthl	2013-02-25T22:59:59Z
+-14.945	212.293	Rangiroa Atoll	France	250	4550	455	355	rangi	
+-14.292	181.843	Leava, Futuna Island	France	250	4530	453	353	futu	
+-14.283	189.317	Pago Pago	American Samoa	16	560	56	144	pago	2019-12-31T22:59:59Z
+-14.283	189.438	Aunuu	American Samoa	16	4070	407		aunu	
+-14.272	189.427	Auasi	American Samoa	16	4040	404		auas	
+-14.24	190.49	Tau	American Samoa	16	4080	408		tau1	
+-14.163	190.318	Ofu	American Samoa	16	4090	409		ofu1	
+-13.817	188.25	Apia	Samoa	882	4010	401		upol	2021-12-31T22:59:59Z
+-12.967	40.488	Pemba	Mozambique	508	1920	192	11	pemba	2013-03-01T22:59:59Z
+-12.967	321.483	Salvador, USCGS	Brazil	76	7080	708	334	salv	2018-12-31T22:59:59Z
+-12.78	45.257	Dzaoudzi	France	250	1550	155	96	dzao	2018-12-31T22:59:59Z
+-12.467	130.85	Darwin	Australia	36	1680	168	62	darw	2021-12-31T22:59:59Z
+-12.117	96.9	Cocos	Australia	36	1710	171	46	cocb	2021-12-31T22:59:59Z
+-12.05	282.85	Callao	Peru	604	930	93	173	call	2017-09-04T22:59:59Z
+-10.6	141.917	Booby Island	Australia	36	3360	336	61	boob	2021-12-31T22:59:59Z
+-10.417	105.667	Christmas	Australia	36	1700	170	47	chrs	2021-12-31T22:59:59Z
+-10.283	40.183	Mtwara	Tanzania, United Republic of	834	9220	922	9	mtwa	
+-9.81	220.973	Hiva Oa	France	250	170	17		hiva	2017-09-04T22:59:59Z
+-9.425	159.957	Honiara	Solomon Islands	90	90	9	66	solo	2021-12-31T22:59:59Z
+-9.4	119.233	Waikelo	Indonesia	360	4180	418	346	waik	
+-8.977	201.947	Penrhyn	Cook Islands (the)	184	240	24	143	penr	2018-12-31T22:59:59Z
+-8.93	219.918	Nuku Hiva	France	250	310	31	142	nuku	2018-12-31T22:59:59Z
+-8.745	115.21	Benoa	Indonesia	360	1630	163	49	beno	2018-12-31T22:59:59Z
+-8.732	116.072	Lembar	Indonesia	360	4190	419		lemba	2018-12-21T22:59:59Z
+-8.525	179.195	Funafuti	Tuvalu	798	250	25	121	fong	2021-12-31T22:59:59Z
+-8.5	110.783	Sadeng	Indonesia	360	4170	417		sade	
+-8.283	111.733	Prigi	Indonesia	360	1250	125		prig	2018-12-31T22:59:59Z
+-7.982	131.29	Saumlaki	Indonesia	360	4200	420		saum	2018-12-31T22:59:59Z
+-7.917	345.583	Ascension	United Kingdom of Great Britain and Northern Ireland (the)	826	2910	291	263	ascen	2024-12-31T22:59:59Z
+-7.752	109.017	Cilicap	Indonesia	360	1620	162	291	cila	2018-12-31T22:59:59Z
+-7.29	72.393	Diego Garcia	United Kingdom of Great Britain and Northern Ireland (the)	826	1040	104	26	garc	2018-12-31T22:59:59Z
+-6.933	279.283	Lobos de Afuera	Peru	604	840	84		lobo	
+-6.483	105.667	Tanjung Lesung	Indonesia	360	4160	416		tjls	
+-6.155	39.19	Zanzibar	Tanzania, United Republic of	834	1510	151	297	zanz	2018-12-31T22:59:59Z
+-4.8	11.85	Pointe Noire	Congo (the)	178	2340	234	261	pntn	
+-4.672	55.528	Pt. La Rue	Seychelles	690	1210	121	339	laru	2018-12-31T22:59:59Z
+-4.582	278.718	Talara	Peru	604	920	92		tala	2024-12-31T22:59:59Z
+-4.07	39.657	Mombasa	Kenya	404	1010	101	8	momb	2018-12-31T22:59:59Z
+-3.717	321.533	Fortaleza	Brazil	76	2830	283	336	fort	2018-12-31T22:59:59Z
+-3.7	128.2	Ambon	Indonesia	360	1330	133	68	ambo	2018-12-31T22:59:59Z
+-2.81	188.282	Kanton	Kiribati	296	130	13	145	kant	2018-12-31T22:59:59Z
+-2.272	40.903	Lamu	Kenya	404	1490	149		lamu	2018-12-31T22:59:59Z
+-2.2	279.083	La Libertad	Ecuador	218	910	91	172	lali	2018-12-31T22:59:59Z
+-2.033	147.367	Lombrum	Papua New Guinea	598	4000	400	331	lomb	2021-12-31T22:59:59Z
+-1.0	100.367	Padang	Indonesia	360	1070	107	45	pada	2018-12-31T22:59:59Z
+-0.753	269.688	Santa Cruz	Ecuador	218	300	30		sant	2018-12-31T22:59:59Z
+-0.687	73.152	Gan	Maldives	462	1090	109	27	ganm	2018-12-31T22:59:59Z
+-0.532	166.91	Nauru	Nauru	520	40	4	114	naur	2021-12-31T22:59:59Z
+-0.435	269.715	Baltra	Ecuador	218	30	3	169	balt	2018-12-31T22:59:59Z
+0.348	6.737	Sao Tome	Sao Tome and Principe	678	2250	225	260	saot	2010-08-31T22:59:59Z
+0.555	97.822	Telukdalam	Indonesia	360	9130	913		telu	
+1.098	154.777	Kapingamarangi	Micronesia (Federated States of)	583	290	29	117	kapi	2018-12-04T22:59:59Z
+1.262	103.853	Tanjong Pagar	Singapore	702	6990	699	44	tanjo	2018-12-30T22:59:59Z
+1.362	172.93	Tarawa, Bairiki	Kiribati	296	20	2	113	tara	2021-12-31T22:59:59Z
+1.438	125.19	Bitung	Indonesia	360	330	33	69	bitu	2018-12-31T22:59:59Z
+1.75	98.767	Sibolga	Indonesia	360	1220	122		sibo	2018-12-31T22:59:59Z
+1.982	202.528	Christmas	Kiribati	296	110	11	146	xmas	2018-12-31T22:59:59Z
+4.183	73.533	Male	Maldives	462	1080	108		male	2017-09-04T22:59:59Z
+4.217	9.133	Port Sonara	Cameroon	120	8160	816	350	sona	2011-06-24T22:59:59Z
+4.85	307.717	Cayenne	France	250	2270	227	202	caye	2007-12-31T22:59:59Z
+4.883	358.25	Takoradi	Ghana	288	2310	231	335	tako	2012-09-07T22:59:59Z
+5.128	96.132	Meulaboh	Indonesia	360	9140	914		meul	
+5.557	272.952	Cocos Island	Costa Rica	188	3920	392		cocos	
+5.833	95.333	Sabang	Indonesia	360	1230	123	347	saba	2018-12-31T22:59:59Z
+5.872	197.912	Palmyra Island	United States of America (the)	840	430	43		plmy	2018-12-31T22:59:59Z
+6.423	3.412	Lagos	Nigeria	566	2330	233	259	lagos	2009-06-30T22:59:59Z
+6.432	99.765	Langkawi	Malaysia	458	1420	142		lank	2018-12-31T22:59:59Z
+6.767	73.167	Hanimaadhoo	Maldives	462	1170	117		hani	2018-12-31T22:59:59Z
+6.963	79.858	Colombo	Sri Lanka	144	1150	115	33	colo	2017-09-04T22:59:59Z
+6.978	158.197	Pohnpei	Micronesia (Federated States of)	583	10	1	115	deke	2021-12-31T22:59:59Z
+7.083	125.633	Davao	Philippines (the)	608	3720	372	71	davo	2018-12-31T22:59:59Z
+7.107	171.373	Majuro	Marshall Islands (the)	584	50	5	112	marsh	2021-12-31T22:59:59Z
+7.33	134.463	Malakal	Palau	585	70	7	120	mala	2018-12-31T22:59:59Z
+7.453	151.898	Chuuk	Micronesia (Federated States of)	583	540	54	116	chuu	2024-12-31T22:59:59Z
+7.832	98.425	Ko Taphao Noi	Thailand	764	1480	148	42	kota	2019-12-30T22:59:59Z
+8.117	73.05	Minicoy	India	356	1530	153	29	mini	
+8.567	97.633	Ko Miang	Thailand	764	1180	118		komi	
+8.733	167.733	Kwajalein	Marshall Islands (the)	584	550	55	111	kwaj	2021-12-31T22:59:59Z
+8.962	280.427	Balboa	Panama	591	3020	302	168	balb	
+9.35	280.1	Cristobal	Panama	591	2660	266	208	coco	
+9.4	275.833	Quepos	Costa Rica	188	870	87	167	quepo	2017-09-04T22:59:59Z
+9.508	138.128	Yap	Micronesia (Federated States of)	583	80	8	119	yapi	2018-12-31T22:59:59Z
+9.558	281.052	El Porvenir	Panama	591	7390	739		elpo	2018-12-31T22:59:59Z
+9.967	76.267	Cochin	India	356	1740	174	32	coch	
+10.0	276.967	Limon	Costa Rica	188	2680	268		limn	2018-12-31T22:59:59Z
+10.34	107.072	Vung Tau	Viet Nam	704	3830	383		vung	2018-12-31T22:59:59Z
+11.235	285.778	Santa Marta	Colombia	170	7380	738		sama	2018-12-31T22:59:59Z
+11.6	43.15	Djibouti	Djibouti	262	1190	119	2	djib	2016-05-05T22:59:59Z
+11.683	92.767	Port Blair	India	356	9080	908	38	ptbl	
+11.795	99.817	Ko Lak	Thailand	764	3280	328	39	kola	2019-12-30T22:59:59Z
+12.0	298.233	Prickley Bay	Grenada	308	7890	789		pric	2018-12-31T22:59:59Z
+12.187	290.98	Bullen Bay	Curacao	531	8780	878		bull	2018-12-31T22:59:59Z
+12.568	278.298	San Andres	Colombia	170	7370	737		sana	2018-12-31T22:59:59Z
+12.783	44.983	Aden	Yemen	887	1720	172	3	aden	2014-12-30T22:59:59Z
+13.133	298.8	Kingstow	Unknown		7950	795		none	
+13.15	123.75	Legaspi	Philippines (the)	608	3710	371	72	lega	2017-09-04T22:59:59Z
+13.433	144.65	Guam	United States of America (the)	840	530	53	149	guam	2021-12-31T22:59:59Z
+13.583	270.167	Acajutla	El Salvador	222	820	82	182	acaj	2018-12-31T22:59:59Z
+13.767	109.25	Qui Nhon	Viet Nam	704	3810	381	75	quin	2018-12-30T22:59:59Z
+13.817	120.202	Lubang	Philippines (the)	608	6550	655		luba	2018-12-31T22:59:59Z
+14.583	120.967	Manila	Philippines (the)	608	3700	370	73	mani	2014-12-31T22:59:59Z
+14.6	298.933	Fort de France	France	250	2710	271		lero	2018-12-31T22:59:59Z
+14.677	342.58	Dakar	Senegal	686	2230	223	253	dakar	2018-12-31T22:59:59Z
+14.765	120.252	Subic Bay	Philippines (the)	608	3820	382		subi	2018-12-31T22:59:59Z
+15.227	145.742	Saipan	United States of America (the)	840	280	28	118	saip	2018-12-31T22:59:59Z
+15.3	298.6	Roseau	Dominica	212	7860	786		rose	2015-02-28T22:59:59Z
+16.483	97.617	Moulmein	Myanmar	104	9060	906	141	moul	2018-12-31T22:59:59Z
+16.75	190.483	Johnston	United States of America (the)	840	520	52	109	john	2018-12-31T22:59:59Z
+16.75	337.017	Palmeira	Cabo Verde	132	2350	235	329	plma	2018-12-31T22:59:59Z
+16.84	260.088	Acapulco, Gro.	Mexico	484	3160	316	267	acap	2011-04-24T22:59:59Z
+16.935	54.007	Salalah	Oman	512	1140	114	4	sala	2018-05-22T22:59:59Z
+17.683	83.283	Vishakhapatnam	India	356	1570	157	35	vish	
+18.017	120.483	Currimao	Philippines (the)	608	6540	654		curri	2018-12-31T22:59:59Z
+18.1	344.05	Nouakchott	Mauritania	478	8060	806		noct	2015-02-08T22:59:59Z
+18.228	286.382	St. Louis du Sud	Haiti	332	4060	406		slds	
+18.46	293.883	San Juan, PR	United States of America (the)	840	2450	245	206	sanj	2021-12-31T22:59:59Z
+18.5	291.62	Punta Cana	Dominican Republic (the)	214	7760	776		ptca	2018-12-31T22:59:59Z
+18.567	287.65	Portu-Prince	Haiti	332	7990	799	209	ptpr	2018-12-31T22:59:59Z
+18.643	285.89	Jeremie	Haiti	332	4050	405		jrmi	
+18.733	248.983	Socorro	Mexico	484	900	90	162	soco	1997-09-30T22:59:59Z
+19.05	255.667	Manzanillo	Mexico	484	3950	395	163	manz	2013-08-28T22:59:59Z
+19.185	204.093	Milolii	Unknown		4310	431		none	
+19.283	166.617	Wake	United States of America (the)	840	510	51	105	wake	2021-12-31T22:59:59Z
+19.668	203.977	Honokohau	United States of America (the)	840	4300	430		hoko	
+19.733	204.933	Hilo, Hawaii	United States of America (the)	840	600	60	287	hilo	2021-12-31T22:59:59Z
+19.8	289.3	Puerto Plata	Dominican Republic (the)	214	7770	777		ptpl	2017-09-04T22:59:59Z
+20.033	204.167	Kawaihae	United States of America (the)	840	5520	552		kawa	2022-12-31T22:59:59Z
+20.15	92.9	Akyab (Sittwe)	Myanmar	104	9070	907	37	sitt	2018-12-31T22:59:59Z
+20.687	58.872	Masirah	Oman	512	1130	113		masi	2018-12-31T22:59:59Z
+20.742	203.112	Manele Bay	United States of America (the)	840	4290	429		mane	
+20.783	203.0	Kaumalapau, HI	United States of America (the)	840	5480	548		kaum	2015-03-22T22:59:59Z
+20.9	203.533	Kahului	United States of America (the)	840	590	59		kahu	2021-12-31T22:59:59Z
+21.082	202.972	Kaunakakai, Hawaii	United States of America (the)	840	4280	428		kaun	
+21.287	202.158	Alawai	United States of America (the)	840	4210	421		alaw	
+21.307	202.133	Honolulu, Hawaii	United States of America (the)	840	570	57	108	hono	2021-12-31T22:59:59Z
+21.317	202.108	Keehi	United States of America (the)	840	4240	424		keeh	
+21.322	201.88	Barbers Point, HI	United States of America (the)	840	5470	547		brpt	2018-12-30T22:59:59Z
+21.367	202.037	Pearl Harbor	United States of America (the)	840	4340	434		phar	
+21.433	202.2	Mokuoloe	United States of America (the)	840	610	61		moku	2021-12-31T22:59:59Z
+21.443	202.19	Heeia	United States of America (the)	840	4230	423		heei	
+21.45	201.803	Waianae	United States of America (the)	840	4250	425		waia	
+21.593	201.895	Haleiwa	United States of America (the)	840	4220	422		hale	
+21.902	200.41	Port Allen	United States of America (the)	840	4330	433		ptal	
+21.967	200.65	Nawiliwili	United States of America (the)	840	580	58		nawi	2021-12-31T22:59:59Z
+22.21	200.502	Hanalei, HI	United States of America (the)	840	4320	432		hanl	
+22.237	91.827	Chittagong	Bangladesh	50	1240	124	36	chtt	2018-12-06T22:59:59Z
+22.3	114.217	Hong Kong	Hong Kong	344	3290	329	77	quar	2018-12-30T22:59:59Z
+22.615	120.282	Kaohsiung	Taiwan (Province of China)	158	3400	340		kaoh	
+22.88	250.092	Cabo San Lucas	Mexico	484	340	34	161	cabo	2003-08-31T22:59:59Z
+23.628	58.565	Muscat	Oman	512	1100	110		musc	2018-12-30T22:59:59Z
+23.867	193.71	French Frigate	United States of America (the)	840	140	14	107	fren	2018-10-03T22:59:59Z
+24.3	153.967	Minamitorishima	Japan	392	490	49	104	mins	2023-12-31T22:59:59Z
+24.333	124.15	Ishigaki	Japan	392	3650	365		ishig	2023-12-31T22:59:59Z
+24.553	278.192	Key West, FL	United States of America (the)	840	2420	242	216	kwfl	2021-12-31T22:59:59Z
+24.8	66.967	Karachi	Pakistan	586	1470	147	30	kara	2016-12-14T22:59:59Z
+25.157	121.745	Keelung	Taiwan (Province of China)	158	3410	341		keel	
+25.297	60.603	Chabahar	Iran (Islamic Republic of)	364	9150	915	337	chab	2016-12-31T22:59:59Z
+25.63	57.77	Jask	Iran (Islamic Republic of)	364	1260	126		jask	
+25.732	279.838	Virginia Key, FL	United States of America (the)	840	7550	755	218	miam	2021-12-31T22:59:59Z
+26.217	127.667	Naha	Japan	392	3550	355	81	naha	2023-12-31T22:59:59Z
+26.69	281.017	Settlement Point	Bahamas (the)	44	2570	257	211	stpt	2018-12-31T22:59:59Z
+27.1	142.183	Chichijima	Japan	392	470	47	103	chij	2023-12-31T22:59:59Z
+28.148	344.593	Las Palmas	Spain	724	2170	217	251	pluz	2017-12-31T22:59:59Z
+28.217	182.633	Midway	United States of America (the)	840	500	50	106	midx	2021-12-31T22:59:59Z
+28.378	129.498	Naze	Japan	392	3590	359		naze	2018-12-30T22:59:59Z
+29.285	265.212	Galveston, P.Pier	United States of America (the)	840	7670	767	217	gptx	2011-07-19T22:59:59Z
+29.31	265.207	Galveston, Pier 21	United States of America (the)	840	7750	775	217	gptx	2021-12-31T22:59:59Z
+29.833	129.85	Nakano Shima	Japan	392	3450	345		naka	2018-12-30T22:59:59Z
+30.403	272.787	Pensacola, FL	United States of America (the)	840	7620	762	288	pnfl	2021-12-31T22:59:59Z
+30.732	130.995	Nishinoomote	Japan	392	3630	363		nish	2018-12-30T22:59:59Z
+31.217	29.917	Alexandria	Egypt	818	8070	807	349	alex	2016-01-16T22:59:59Z
+31.567	131.417	Aburatsu	Japan	392	3540	354	82	abur	2023-12-31T22:59:59Z
+31.85	243.367	Ensenada	Mexico	484	3170	317		ense	2009-09-30T22:59:59Z
+32.033	279.098	Fort Pulaski, GA	United States of America (the)	840	7520	752	289	fpga	2021-12-31T22:59:59Z
+32.373	295.297	Bermuda	United Kingdom of Great Britain and Northern Ireland (the)	826	2590	259	221	bmda	2019-11-22T22:59:59Z
+32.64	343.093	Funchal	Portugal	620	2180	218	250	func	
+32.715	242.827	San Diego	United States of America (the)	840	5690	569		sand	2021-12-31T22:59:59Z
+32.733	129.867	Nagasaki	Japan	392	3620	362	83	nagas	2023-12-31T22:59:59Z
+32.783	280.067	Charleston, SC	United States of America (the)	840	2610	261		charl	2021-12-31T22:59:59Z
+32.867	242.742	La Jolla, CA	United States of America (the)	840	5540	554	159	lajo	2021-12-31T22:59:59Z
+33.467	135.783	Kushimoto	Japan	392	3530	353	85	kusm	2023-12-31T22:59:59Z
+34.555	239.39	Vandenberg	United States of America (the)	840	5450	545		vndp	
+34.683	137.617	Maisaka	Japan	392	3560	356		maisa	2023-12-31T22:59:59Z
+34.9	132.067	Hamada	Japan	392	3480	348	326	hmda	2023-12-31T22:59:59Z
+34.917	139.833	Mera	Japan	392	3520	352	86	mera	2023-12-31T22:59:59Z
+35.9	354.683	Ceuta	Spain	724	2070	207	249	ceut	2017-12-31T22:59:59Z
+36.117	354.65	Gibraltar	United Kingdom of Great Britain and Northern Ireland (the)	826	2890	289	248	gibr	2024-12-31T22:59:59Z
+36.183	284.26	Duck Pier, NC	United States of America (the)	840	2600	260	219	dpnc	2021-12-31T22:59:59Z
+36.767	137.217	Toyama	Japan	392	3490	349	325	toya	2023-12-31T22:59:59Z
+37.735	334.327	Ponta Delgada	Portugal	620	2110	211	245	pdas	2018-12-31T22:59:59Z
+37.807	237.535	San Francisco, CA	United States of America (the)	840	5510	551	158	fpnt	2021-12-31T22:59:59Z
+38.692	350.583	Cascais	Portugal	620	2090	209	246	casc	2024-12-31T22:59:59Z
+39.067	141.717	Ofunato	Japan	392	3510	351	87	ofun	2023-12-31T22:59:59Z
+39.355	285.582	Atlantic City	United States of America (the)	840	2640	264	220	acnj	2021-12-31T22:59:59Z
+39.453	328.88	Flores, Santa Cruz	Portugal	620	2100	210	244	santf	2009-11-23T22:59:59Z
+41.505	288.673	Newport, RI	United States of America (the)	840	2530	253	290	neri	2021-12-31T22:59:59Z
+41.745	235.817	Crescent City, CA	United States of America (the)	840	5560	556		cres	2021-12-31T22:59:59Z
+41.783	140.733	Hakodate	Japan	392	3640	364	88	hako	2023-12-31T22:59:59Z
+42.967	144.383	Kushiro	Japan	392	3500	350	89	kush	2023-12-31T22:59:59Z
+43.3	5.35	Marseille	France	250	8240	824	205	mars	2018-12-31T22:59:59Z
+43.367	351.6	La Coruna	Spain	724	8300	830	243	coru	2017-12-31T22:59:59Z
+44.017	144.283	Abashiri	Japan	392	3470	347	327	abas	2023-12-31T22:59:59Z
+44.625	235.957	South Beach, OR	United States of America (the)	840	5920	592	157	sbea	2021-12-31T22:59:59Z
+44.667	296.417	Halifax	Canada	124	2750	275	222	hali	2014-08-12T22:59:59Z
+45.4	141.683	Wakkanai	Japan	392	3600	360	324	waka	2023-12-31T22:59:59Z
+45.647	13.76	Trieste	Italy	380	8290	829	340	trst	
+47.567	300.867	Port-aux-basques	Canada	124	2730	273		portj	
+47.567	307.283	St. John's	Canada	124	2760	276	223	stjo	2018-12-31T22:59:59Z
+48.368	235.383	Neah Bay, WA	United States of America (the)	840	5580	558		neah	2021-12-31T22:59:59Z
+48.383	355.5	Brest	France	250	8220	822	242	bres	2018-12-31T22:59:59Z
+48.833	234.867	Bamfield	Canada	124	5410	541		bamf	
+49.15	234.083	Tofino	Canada	124	5420	542	156	tofi	2018-12-31T22:59:59Z
+50.102	354.458	Newlyn, Cornwall	United Kingdom of Great Britain and Northern Ireland (the)	826	2940	294	241	newl	
+51.533	350.817	Castletownbere	Ireland	372	8350	835	330	cast	2008-12-31T22:59:59Z
+51.858	183.365	Adak, Alaska	United States of America (the)	840	400	40	302	adak	2021-12-31T22:59:59Z
+53.867	8.717	Cuxhaven	Germany	276	8250	825	284	cuxh	2023-07-11T22:59:59Z
+53.88	193.462	Dutch Harbor, AK	United States of America (the)	840	410	41	102	dutc	2021-12-31T22:59:59Z
+54.317	229.667	Prince Rupert	Canada	124	5400	540	155	prin	2018-12-31T22:59:59Z
+55.333	228.375	Ketchikan, AK	United States of America (the)	840	5710	571		ketc	2021-12-31T22:59:59Z
+55.337	199.498	Sand Point, AK	United States of America (the)	840	5740	574	100	sdpt	2022-12-31T22:59:59Z
+55.367	352.667	Malin Head	Ireland	372	8340	834	239	mali	2024-12-31T22:59:59Z
+56.55	298.3	Nain	Canada	124	8330	833	224	nain	2018-12-31T22:59:59Z
+57.052	224.658	Sitka, AK	United States of America (the)	840	5590	559	154	sitk	2021-12-31T22:59:59Z
+57.683	11.8	Goteborgorsh.	Sweden	752	8190	819	233	goto	2014-12-31T22:59:59Z
+57.732	207.488	Kodiak Isl., Alaska	United States of America (the)	840	390	39		kodi	2022-12-31T22:59:59Z
+58.0	7.567	Tregde	Norway	578	8040	804	321	treg	2018-12-31T22:59:59Z
+58.208	353.612	Stornoway	United Kingdom of Great Britain and Northern Ireland (the)	826	2950	295	238	stor	
+58.35	11.215	Smogen	Sweden	752	8180	818		smog	
+58.783	265.8	Churchill	Canada	124	2740	274		chur	2018-12-31T22:59:59Z
+59.317	18.083	Stockholm	Sweden	752	8260	826	341	sthm	2014-12-31T22:59:59Z
+59.547	220.265	Yakutat, AK	United States of America (the)	840	5700	570		yaku	2021-12-31T22:59:59Z
+60.12	210.573	Seward, AK	United States of America (the)	840	5600	560	150	sewa	2021-12-31T22:59:59Z
+60.153	358.862	Lerwick	United Kingdom of Great Britain and Northern Ireland (the)	826	2930	293	236	lerw	
+60.717	313.967	Qaqortoq	Denmark	208	2990	299	344	qaqo	2024-12-31T22:59:59Z
+61.933	5.117	Maloy	Norway	578	8020	802		malo	2014-12-30T22:59:59Z
+64.15	338.067	Reykjavik	Iceland	352	2880	288	229	reyk	2024-12-31T22:59:59Z
+64.172	308.28	Nuuk, Godthaab	Denmark	208	8200	820	225	godt	
+64.5	194.57	Nome, AK	United States of America (the)	840	5950	595	74	nome	2021-12-31T22:59:59Z
+64.867	11.25	Rorvik	Norway	578	8030	803	234	rorv	2018-12-31T22:59:59Z
+69.317	16.15	Andenes	Norway	578	8000	800	322	ande	2018-12-31T22:59:59Z
+70.333	31.1	Vardo	Norway	578	8050	805	323	vard	2018-12-30T22:59:59Z
+70.4	211.473	Prudhoe Bay, AK	United States of America (the)	840	5790	579	151	prud	2022-12-31T22:59:59Z
+70.483	338.017	Ittoqqortoormiit	Denmark	208	8090	809	315	scor	
+70.483	338.017	Upernavik harbour	Greenland	304	8170	817		uper	
+70.983	25.983	Honningsvag	Norway	578	8010	801		honn	2014-12-30T22:59:59Z
+76.0	292.0	Thule (Pituffik)	Denmark	208	8080	808	343	thul	
+78.933	11.933	Nylesund	Norway	578	8230	823	345	nyal	2018-12-29T22:59:59Z
+82.492	297.683	Alert	Canada	124	8360	836	333	aler	

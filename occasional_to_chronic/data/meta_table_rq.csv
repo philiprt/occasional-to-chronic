@@ -1,0 +1,693 @@
+latitude	longitude	station_name	station_country	station_country_code	record_id	uhslc_id	version	gloss_id	ssc_id	decimation_method	reference_code	reference_offset
+-77.85	166.75	Scott Base	New Zealand	554	6631	663	A	134	scot	1	R	0
+-69.0	39.6	Syowa, Antarctica	Antarctica	10	1271	127	A	95	syow	1	R	0
+-68.45	77.967	Davis	Australia	36	1731	173	A	277	davi	1	R	0
+-68.133	292.9	San Martin	Argentina	32	6811	681	A		sanma	1	R	0
+-68.133	292.9	San Martin	Argentina	32	6812	681	B		sanma	1	R	0
+-68.133	292.9	San Martin	Argentina	32	6813	681	C		sanma	1	R	0
+-67.6	62.867	Mawson	Australia	36	1771	177	A	22	maws	1	R	0
+-67.567	291.867	Rothera	United Kingdom of Great Britain and Northern Ireland (the)	826	8321	832	A	342	roth	1	R	0
+-66.662	140.01	Dumont d'Urville	Antarctica	10	1891	189	A	131	dumo	1	R	0
+-66.283	110.533	Casey	Australia	36	1301	130	A	278	case	1	R	0
+-65.25	295.733	Faraday	Antarctica	10	7001	700	A	188	vern	1	R	0
+-63.395	303.005	Esperanza	Argentina	32	6011	601	A	185	espr	1	R	0
+-62.483	300.367	Base Prat	Chile	152	7301	730	A	189	prat	1	R	0
+-62.478	300.335	Base Prat	Chile	152	7302	730	B	189	prat	1	R	0
+-62.233	301.317	Dallmann	Argentina	32	6821	682	A		dall	1	R	0
+-62.233	301.317	Dallmann	Argentina	32	6822	682	B		dall	1	R	0
+-62.233	301.317	Dallmann	Argentina	32	6823	682	C		dall	1	R	0
+-56.508	291.285	Diego Ramirez	Chile	152	5991	599	A	180	dieg	1	R	0
+-54.933	292.383	Puerto Williams	Chile	152	2871	287	A		pwil	1	X	0
+-54.805	291.705	Ushuaia	Argentina	32	6001	600	A	181	ushu	1	R	0
+-54.483	158.967	Macquarie Is.	Australia	36	6801	680	A	130	macq	1	R	0
+-54.483	158.967	Macquarie Is.	Australia	36	6802	680	B	130	macq	1	X	0
+-54.483	158.967	Macquarie Is.	Australia	36	6803	680	C	130	macq	1	R	0
+-52.7	302.133	Port Stanley	United Kingdom of Great Britain and Northern Ireland (the)	826	2901	290	A	305	stan	1	R	0
+-51.75	302.067	Port Stanley	United Kingdom of Great Britain and Northern Ireland (the)	826	2902	290	B	305	stan	1	R	0
+-49.345	70.22	Kerguelen	France	250	1801	180	A	23	kerg	1	R	0
+-47.753	294.085	Puerto Deseado	Argentina	32	2862	286	B	190	dese	1	R	0
+-47.75	294.083	Puerto Deseado	Argentina	32	2861	286	A	190	dese	1	R	0
+-46.6	168.35	Bluff	New Zealand	554	721	72	A	129	bluf	1	R	0
+-46.425	51.87	Crozet	France	250	1781	178	A	21	croz	1	R	0
+-46.425	51.87	Crozet	France	250	1782	178	B	21	croz	1	R	0
+-45.817	170.65	Port Chalmers	New Zealand	554	6691	669	A		otat	1	R	0
+-44.383	171.25	Timaru	New Zealand	554	6651	665	A		tima	1	R	0
+-43.983	168.617	Jackson	New Zealand	554	4031	403	A		jack	1	R	0
+-43.983	168.617	Jackson	New Zealand	554	4032	403	B		jack	1	R	0
+-43.947	183.438	Chatham	New Zealand	554	791	79	A	128	wait	1	R	0
+-43.6	172.717	Lyttelton	New Zealand	554	6671	667	A		sumt	1	R	0
+-42.887	147.33	Hobart	Australia	36	3391	339	A		hoba	1	R	0
+-42.763	294.968	Puerto Madryn	Argentina	32	7311	731	A	191	madry	1	R	0
+-42.55	147.933	Spring Bay	Australia	36	3351	335	A	56	sprg	1	R	0
+-41.733	171.6	West Port	New Zealand	554	741	74	A		west	1	R	0
+-41.483	287.033	Puerto Montt	Chile	152	6841	684	A	178	pmon	1	R	0
+-41.283	174.783	Wellington	New Zealand	554	711	71	A	101	wlgt	1	R	0
+-41.267	173.267	Nelson	New Zealand	554	771	77	A		nels	1	R	0
+-41.05	145.915	Burnie	Australia	36	3441	344	A		barn	1	R	0
+-39.947	174.99	Wanganui	New Zealand	554	751	75	A		wang	1	R	0
+-39.483	176.917	Napier	New Zealand	554	6681	668	A		napt	1	R	0
+-39.05	174.033	Taranaki	New Zealand	554	761	76	A		taran	1	R	0
+-38.712	77.538	Saint Paul	France	250	1791	179	A	24	stpa	1	R	0
+-38.683	178.033	Gisborne	New Zealand	554	781	78	A		gist	1	R	0
+-38.683	178.033	Gisborne	New Zealand	554	782	78	B		gist	1	R	0
+-38.333	141.6	Portland, S.Aus.	Australia	36	1291	129	A	55	porl	1	R	0
+-38.05	302.45	Mar del Plata	Argentina	32	7291	729	A	192	plat	1	R	0
+-38.035	302.47	Mar del Plata	Argentina	32	7292	729	B	192	plat	1	R	0
+-37.65	176.183	Tauranga	New Zealand	554	731	73	A		taut	1	R	0
+-37.05	347.7	Tristan da Cunha	United Kingdom of Great Britain and Northern Ireland (the)	826	7221	722	A	266	tdcu	1	R	0
+-36.85	174.767	Auckland	New Zealand	554	701	70	A	127	auct	1	R	0
+-35.833	174.5	Marsden Point	New Zealand	554	3981	398	A		marsd	1	R	0
+-35.108	138.467	Port Stanvac	Australia	36	1001	100	A		pors	1	R	0
+-34.667	301.5	Buenos Aires	Argentina	32	2851	285	A		bueno	1	R	0
+-34.473	150.912	Port Kembla	Australia	36	3421	342	A		pkem	1	R	0
+-34.183	18.433	Simon's Town	South Africa	710	2211	221	A	268	sitin	1	R	0
+-34.183	22.133	Mossel Bay	South Africa	710	1851	185	A		moss	1	R	0
+-33.96	25.63	Port Elizabeth	South Africa	710	1841	184	A	76	prte	1	R	0
+-33.9	18.433	Cape Town	South Africa	710	7041	704	A		cape	1	R	0
+-33.867	121.9	Esperance	Australia	36	1761	176	A	54	espe	1	R	0
+-33.85	151.233	Fort Denison	Australia	36	3331	333	A	57	sydn	1	R	0
+-33.622	281.167	Juan Fernandez	Chile	152	211	21	A	176	juan	1	R	0
+-33.622	281.167	Juan Fernandez	Chile	152	212	21	B	176	juan	1	R	0
+-33.033	288.367	Valparaiso	Chile	152	811	81	A	175	valp	1	R	0
+-33.017	17.95	Saldahna Bay	South Africa	710	7031	703	A		sald	1	R	0
+-33.017	27.917	East London	South Africa	710	1871	187	A		ealo	1	R	0
+-32.15	133.64	Thevenard	Australia	36	1281	128	A	308	thev	1	R	0
+-32.138	307.897	Rio Grande	Brazil	76	7141	714	A	193	ptor	1	R	0
+-32.05	115.717	Fremantle	Australia	36	1751	175	A	53	frem	1	R	0
+-32.033	23.033	Knysna	South Africa	710	1861	186	A		knys	1	R	0
+-31.825	115.738	Hillarys	Australia	36	1321	132	A		hill	1	R	0
+-31.517	159.067	Lord Howe	Australia	36	3991	399	A	148	lord	1	R	0
+-31.517	159.067	Lord Howe	Australia	36	3992	399	B	148	lord	1	R	0
+-29.867	31.05	Durban	South Africa	710	1811	181	A	13	durb	1	R	0
+-29.25	16.867	Port Nolloth	South Africa	710	7011	701	A		ptno	1	R	0
+-29.067	167.933	Norfolk Island	Australia	36	622	62	B	124	norf	1	R	0
+-29.067	167.95	Norfolk Island	Australia	36	621	62	A	124	norf	1	X	0
+-28.8	32.083	Richard's Bay	South Africa	710	1881	188	A		rich	1	R	0
+-28.133	311.6	Imbituba	Brazil	76	7181	718	A	351	imbi	1	R	0
+-27.367	153.167	Brisbane	Australia	36	3311	331	A	58	bris	1	R	0
+-27.15	250.552	Easter	Chile	152	221	22	A	137	east	1	R	0
+-27.15	250.552	Easter	Chile	152	222	22	B	137	east	1	R	0
+-27.15	250.552	Easter	Chile	152	223	22	C	137	east	1	R	0
+-27.067	289.167	Caldera	Chile	152	881	88	A		cald	1	R	0
+-26.65	15.15	Luderitz	South Africa	710	7021	702	A		lude	1	R	0
+-26.292	279.892	San Felix	Chile	152	351	35	A	177	sanf	1	R	0
+-26.167	32.7	Maputo	Mozambique	508	1901	190	A		mapu	1	R	0
+-25.975	32.57	Maputo	Mozambique	508	1902	190	B		mapu	1	R	0
+-25.017	312.075	Cananeia	Brazil	76	2811	281	A	194	cana	1	R	0
+-25.017	312.075	Cananeia	Brazil	76	2812	281	B	194	cana	1	R	0
+-24.898	113.652	Carnarvon	Australia	36	1671	167	A	52	carn	1	R	0
+-24.767	152.38	Bundaberg	Australia	36	3321	332	A	59	burn	1	R	0
+-23.868	35.377	Inhambane	Mozambique	508	9001	900	A	10	inha	1	X	0
+-23.65	289.6	Antofagasta	Chile	152	801	80	A	174	anto	1	R	0
+-23.5	314.883	Ubatuba	Brazil	76	2821	282	A		ubat	1	R	0
+-23.162	150.79	Rosslyn Bay	Australia	36	3301	330	A		ross	1	R	0
+-23.125	225.047	Rikitea	France	250	161	16	A	138	riki	1	R	0
+-22.95	14.5	Walvis Bay	Namibia	516	2201	220	A	314	walvi	1	R	0
+-22.933	316.867	Rio de Janeiro, CG	Brazil	76	7091	709	A	195	rioj	1	R	0
+-22.897	316.835	Ilha Fiscal, RJ	Brazil	76	2801	280	A	195	rioj	1	R	0
+-22.385	318.23	Macae	Brazil	76	7191	719	A	352	macae	1	R	0
+-22.242	166.417	Noumea	France	250	191	19	A	123	numbo	1	R	0
+-21.207	200.225	Rarotonga	Cook Islands (the)	184	231	23	A	139	raro	1	R	0
+-21.2	200.213	Rarotonga	Cook Islands (the)	184	232	23	B	139	raro	1	R	0
+-21.133	184.833	Nuku'alofa	Tonga	776	381	38	A	125	nkfa	1	R	0
+-20.935	55.285	Reunion	France	250	1641	164	A	17	reun	1	R	0
+-20.503	330.69	Trindade	Brazil	76	2041	204	A	265	trind	1	R	0
+-20.318	118.575	Port Hedland	Australia	36	1691	169	A	51	pthe	1	R	0
+-20.155	57.495	Port Louis	Mauritius	480	1033	103	C	18	ptlu	1	R	0
+-20.153	57.49	Port Louis	Mauritius	480	1031	103	A	18	ptlu	1	R	0
+-20.153	57.49	Port Louis	Mauritius	480	1032	103	B	18	ptlu	1	R	0
+-19.668	63.418	Rodrigues	Mauritius	480	1051	105	A	19	rodr	1	R	0
+-19.277	147.058	Cape Ferguson	Australia	36	3431	343	A	60	ferg	1	R	0
+-19.25	146.833	Townsville	Australia	36	3341	334	A	60	ferg	1	R	0
+-19.05	190.083	Alofi	Niue	570	5981	598	A		alof	1	R	0
+-18.467	289.667	Arica	Chile	152	831	83	A		aric	1	R	0
+-18.132	178.427	Suva	Fiji	242	181	18	A	122	viti	1	R	0
+-18.132	178.427	Suva	Fiji	242	182	18	B	122	viti	1	R	0
+-18.0	122.217	Broome	Australia	36	1661	166	A	40	brom	1	R	0
+-17.767	168.3	Port Vila	Vanuatu	548	462	46	B	348	vanu	1	R	0
+-17.733	168.317	Port Vila	Vanuatu	548	461	46	A	348	vanu	1	R	0
+-17.6	177.433	Lautoka	Fiji	242	4021	402	A		levu	1	R	0
+-17.532	210.433	Papeete	France	250	151	15	A	140	pape	1	R	0
+-17.525	210.433	Papeete	France	250	152	15	B	140	pape	1	R	0
+-17.517	210.483	Matavai	France	250	5901	590	A	140	pape	1	R	0
+-17.002	287.892	Matarani	Peru	604	942	94	B		mata	1	R	0
+-17.002	287.892	Matarani	Peru	604	943	94	C		mata	1	R	0
+-17.0	287.883	Matarani	Peru	604	941	94	A		mata	1	R	0
+-16.232	39.902	Antonio Enes	Mozambique	508	1911	191	A		antoe	1	R	0
+-15.917	354.283	St. Helena	Saint Helena, Ascension and Tristan da Cunha	654	2921	292	A	264	sthl	1	R	0
+-15.917	354.283	St. Helena	Saint Helena, Ascension and Tristan da Cunha	654	2922	292	B	264	sthl	1	R	0
+-15.667	321.033	Canavieiras, USCGS	Brazil	76	7071	707	A		canav	1	R	0
+-15.453	128.102	Wyndham	Australia	36	1651	165	A		wynd	1	R	0
+-15.367	284.8	San Juan	Peru	604	961	96	A		sanju	1	R	0
+-15.367	284.8	San Juan	Peru	604	962	96	B		sanju	1	R	0
+-15.192	12.145	Mocamedes	Angola	24	2381	238	A		moca	1	R	0
+-14.463	40.68	Nacala	Mozambique	508	1931	193	A		naca	1	R	0
+-14.463	40.68	Nacala	Mozambique	508	1932	193	B		naca	1	R	0
+-14.283	189.317	Pago Pago	American Samoa	16	561	56	A	144	pago	1	R	0
+-13.86	136.417	Groote Eylandt	Australia	36	1451	145	A		groo	1	R	0
+-13.817	188.25	Apia	Samoa	882	4011	401	A		upol	1	R	0
+-13.817	188.25	Apia	Samoa	882	4012	401	B		upol	1	R	0
+-13.417	283.867	Pisco	Peru	604	6831	683	A		pisc	1	R	0
+-13.417	283.867	Pisco	Peru	604	6832	683	B		pisc	1	R	0
+-13.4	48.3	Nosy Be	Madagascar	450	1501	150	A	15	nosy	1	R	0
+-12.973	321.483	Salvador	Brazil	76	7082	708	B	334	salv	1	R	0
+-12.968	40.487	Pemba	Mozambique	508	1923	192	C	11	pemba	1	R	0
+-12.967	40.488	Pemba	Mozambique	508	1922	192	B	11	pemba	1	R	0
+-12.967	40.5	Pemba	Mozambique	508	1921	192	A	11	pemba	1	R	0
+-12.967	321.483	Salvador, USCGS	Brazil	76	7081	708	A	334	salv	1	R	0
+-12.782	45.258	Dzaoudzi	France	250	1551	155	A	96	dzao	1	R	0
+-12.467	130.85	Darwin	Australia	36	1681	168	A	62	darw	1	R	0
+-12.333	13.558	Lobito	Angola	24	2371	237	A	262	lobi	1	R	0
+-12.117	96.883	Cocos	Australia	36	1711	171	A	46	cocb	1	R	0
+-12.05	282.85	Callao	Peru	604	931	93	A	173	call	1	R	0
+-12.05	282.85	Callao	Peru	604	932	93	B	173	call	1	R	0
+-10.6	141.917	Booby Island	Australia	36	3361	336	A	61	boob	1	R	0
+-10.417	105.667	Christmas	Australia	36	1701	170	A	47	chrs	1	R	0
+-10.317	150.453	Alotau	Papua New Guinea	598	691	69	A	63	alot	1	R	0
+-9.81	220.973	Hiva Oa	France	250	171	17	A		hiva	1	R	0
+-9.805	220.965	Hiva Oa	France	250	172	17	B		hiva	1	R	0
+-9.478	147.14	Port Moresby	Papua New Guinea	598	641	64	A		ptmo	1	R	0
+-9.425	159.957	Honiara	Solomon Islands	90	91	9	A	66	solo	1	R	0
+-9.422	159.955	Honiara	Solomon Islands	90	92	9	B	66	solo	1	R	0
+-8.977	201.947	Penrhyn	Cook Islands (the)	184	241	24	A	143	penr	1	R	0
+-8.93	219.918	Nuku Hiva	France	250	311	31	A	142	nuku	1	R	0
+-8.787	13.237	Luanda	Angola	24	2361	236	A		luan	1	R	0
+-8.747	115.212	Benoa	Indonesia	360	1632	163	B	49	beno	1	R	0
+-8.745	115.21	Benoa	Indonesia	360	1631	163	A	49	beno	1	R	0
+-8.732	116.072	Lembar	Indonesia	360	4191	419	A		lemba	1	R	0
+-8.525	179.195	Funafuti	Tuvalu	798	251	25	A	121	fong	1	R	0
+-8.503	179.21	Funafuti	Tuvalu	798	252	25	B	121	fong	1	R	0
+-8.35	325.05	Suape	Brazil	76	7101	710	A		suap	1	R	0
+-8.28	111.73	Prigi	Indonesia	360	1251	125	A		prig	1	R	0
+-8.117	114.383	Meneng	Indonesia	360	1581	158	A		mene	1	X	0
+-8.05	325.133	Recife, USCGS	Brazil	76	7121	712	A		reci	1	R	0
+-7.982	131.29	Saumlaki	Indonesia	360	4201	420	A		saum	1	R	0
+-7.917	345.583	Ascension	United Kingdom of Great Britain and Northern Ireland (the)	826	2911	291	A	263	ascen	1	R	0
+-7.752	109.017	Cilacap	Indonesia	360	1621	162	A	291	cila	1	R	0
+-7.752	109.017	Cilicap	Indonesia	360	1622	162	B	291	cila	1	R	0
+-7.752	109.017	Cilicap	Indonesia	360	1623	162	C	291	cila	1	R	0
+-7.29	72.393	Diego Garcia	United Kingdom of Great Britain and Northern Ireland (the)	826	1043	104	C	26	garc	1	R	0
+-7.29	72.393	Diego Garcia	United Kingdom of Great Britain and Northern Ireland (the)	826	1044	104	D	26	garc	1	R	0
+-7.233	72.433	Diego Garcia	United Kingdom of Great Britain and Northern Ireland (the)	826	1042	104	B	26	garc	1	R	0
+-7.208	112.725	Surabaya	Indonesia	360	1601	160	A	292	sura	1	R	0
+-6.933	279.283	Lobos de Afuera	Peru	604	841	84	A		lobo	1	R	0
+-6.82	39.288	Dar Es Salaam	Tanzania, United Republic of	834	1021	102	A		dare	1	R	0
+-6.733	146.983	Lae	Papua New Guinea	598	671	67	A		laep	1	R	0
+-6.183	155.883	Anewa Bay	Papua New Guinea	598	481	48	A		anew	1	R	0
+-6.155	39.19	Zanzibar	Tanzania, United Republic of	834	1511	151	A	297	zanz	1	R	0
+-6.117	106.85	Jakarta	Indonesia	360	1611	161	A		koli	1	R	0
+-5.85	106.617	Pari	Indonesia	360	1591	159	A		pari	1	R	0
+-5.752	324.805	Natal	Brazil	76	2021	202	A	197	pton	1	R	0
+-5.752	324.805	Natal	Brazil	76	2022	202	B	197	pton	1	R	0
+-5.752	324.805	Natal	Brazil	76	2023	202	C	197	pton	1	R	0
+-5.2	145.8	Madang	Papua New Guinea	598	661	66	A		mada	1	R	0
+-5.083	278.833	Paita	Peru	604	6781	678	A		pait	1	R	0
+-5.083	278.833	Paita	Peru	604	6782	678	B		pait	1	R	0
+-4.817	322.95	Termisa	Brazil	76	2841	284	A		term	1	R	0
+-4.8	11.85	Pointe Noire	Congo (the)	178	2341	234	A	261	pntn	1	R	0
+-4.783	11.833	Pointe Noire	Congo (the)	178	2342	234	B	261	pntn	1	R	0
+-4.672	55.528	Pt. La Rue	Seychelles	690	1211	121	A	339	laru	1	R	0
+-4.622	55.458	Port Victoria	Seychelles	690	1111	111	A	339	laru	1	X	0
+-4.622	55.458	Port Victoria	Seychelles	690	1112	111	B	339	laru	1	R	0
+-4.582	278.718	Talara	Peru	604	921	92	A		tala	1	R	0
+-4.582	278.718	Talara	Peru	604	922	92	B		tala	1	R	0
+-4.343	55.767	Praslin	Seychelles	690	1061	106	A		pras	1	R	0
+-4.2	152.175	Rabaul	Papua New Guinea	598	101	10	A	65	raba	1	R	0
+-4.07	39.657	Mombasa	Kenya	404	1011	101	A	8	momb	1	R	0
+-3.828	327.597	Fer. de Noronha	Brazil	76	2031	203	A	198	fern	1	R	0
+-3.828	327.597	Fer. de Noronha	Brazil	76	2032	203	B	198	fern	1	R	0
+-3.828	327.597	Fer. de Noronha	Brazil	76	2033	203	C	198	fern	1	R	0
+-3.717	321.517	Fortaleza, USCGS	Brazil	76	2831	283	A	336	fort	1	R	0
+-3.717	321.533	Fortaleza	Brazil	76	2832	283	B	336	fort	1	R	0
+-3.715	321.523	Fortaleza	Brazil	76	2833	283	C	336	fort	1	R	0
+-3.683	128.183	Ambon	Indonesia	360	1331	133	A	68	ambo	1	R	0
+-3.683	128.183	Ambon	Indonesia	360	1332	133	B	68	ambo	1	R	0
+-3.57	143.633	Wewak	Papua New Guinea	598	631	63	A		wewa	1	R	0
+-2.867	318.328	Luis Correia	Brazil	76	7111	711	A		luis	1	R	0
+-2.81	188.282	Kanton	Kiribati	296	131	13	A	145	kant	1	R	0
+-2.81	188.282	Kanton	Kiribati	296	132	13	B	145	kant	1	R	0
+-2.585	150.795	Kavieng	Papua New Guinea	598	681	68	A		kavi	1	R	0
+-2.565	315.622	Madeira	Brazil	76	7151	715	A	200	poam	1	R	0
+-2.272	40.903	Lamu	Kenya	404	1491	149	A		lamu	1	R	0
+-2.272	40.903	Lamu	Kenya	404	1492	149	B		lamu	1	R	0
+-2.2	279.083	La Libertad	Ecuador	218	911	91	A	172	lali	1	R	0
+-2.033	147.367	Lombrum	Papua New Guinea	598	4001	400	A	331	lomb	1	R	0
+-2.013	147.272	Manus	Papua New Guinea	598	651	65	A	331	lomb	1	R	0
+-1.45	311.5	Belem, USCGS	Brazil	76	2291	229	A		bele	1	R	0
+-1.267	116.8	Balikpapan	Indonesia	360	4111	411	A		bali	1	R	0
+-1.0	100.367	Padang	Indonesia	360	1071	107	A	45	pada	1	R	0
+-0.997	100.375	Padang	Indonesia	360	1072	107	B	45	pada	1	R	0
+-0.95	279.267	Manta	Ecuador	218	891	89	A		mant	1	R	0
+-0.932	279.278	Manta	Ecuador	218	892	89	B		mant	1	R	0
+-0.755	269.687	Santa Cruz	Ecuador	218	301	30	A		sant	1	R	0
+-0.687	73.152	Gan	Maldives	462	1091	109	A	27	male2	1	R	0
+-0.683	117.417	Bajor	Indonesia	360	4141	414	A		bajo	1	R	0
+-0.532	166.91	Nauru	Nauru	520	42	4	B	114	naur	1	R	0
+-0.528	166.905	Nauru	Nauru	520	41	4	A	114	naur	1	R	0
+-0.437	269.715	Baltra	Ecuador	218	32	3	B	169	balt	1	R	0
+-0.435	269.715	Baltra, Galapagos	Ecuador	218	31	3	A	169	balt	1	R	0
+-0.383	199.967	Jarvis	United States of America (the)	840	451	45	A		jarv	1	R	0
+-0.062	308.84	Santana SSN	Brazil	76	7171	717	A	201	ptos	1	R	0
+-0.062	308.84	Santana SSN	Brazil	76	7172	717	B	201	ptos	1	R	0
+-0.057	308.82	Santana	Brazil	76	7161	716	A	201	ptos	1	R	0
+-0.057	308.82	Santana	Brazil	76	7162	716	B	201	ptos	1	R	0
+-0.057	308.82	Santana	Brazil	76	7163	716	C	201	ptos	1	R	0
+-0.057	308.82	Santana	Brazil	76	7164	716	D	201	ptos	1	R	0
+-0.057	308.82	Santana	Brazil	76	7165	716	E	201	ptos	1	R	0
+0.017	6.513	Sao Tome	Sao Tome and Principe	678	2251	225	A	260	saot	1	R	0
+0.92	330.657	Peter & Paul Rocks	Brazil	76	2011	201	A	199	Stpe	1	R	10000
+0.992	280.353	Esmeraldas	Ecuador	218	981	98	A		esme	1	R	0
+1.098	154.777	Kapingamarangi	Micronesia (Federated States of)	583	291	29	A	117	kapi	1	R	0
+1.262	103.853	Tanjong Pagar	Singapore	702	6991	699	A	44	tanjo	1	R	0
+1.263	103.822	Keppel Harbour	Singapore	702	3271	327	A	44	tanjo	1	R	0
+1.263	103.822	Victoria Dock	Singapore	702	3371	337	A	44	tanjo	1	R	0
+1.325	103.443	Kukup	Malaysia	458	3251	325	A		kuku	1	R	0
+1.362	172.93	Tarawa, Betio	Kiribati	296	23	2	C	113	tara	1	R	0
+1.363	172.93	Tarawa, Betio	Kiribati	296	24	2	D	113	tara	1	R	0
+1.44	125.193	Bitung	Indonesia	360	331	33	A	69	bitu	1	R	0
+1.462	103.792	Johor Baharu	Malaysia	458	3211	321	A		joho	1	R	0
+1.75	98.767	Sibolga	Indonesia	360	1221	122	A		sibo	1	R	0
+1.75	98.767	Sibolga	Indonesia	360	1222	122	B		sibo	1	R	0
+1.817	281.27	Tumaco	Colombia	170	3031	303	A	171	tumc	1	R	0
+1.932	104.115	Sedili	Malaysia	458	3241	324	A		sedi	1	R	0
+1.982	202.528	Christmas	Kiribati	296	112	11	B	146	xmas	1	R	0
+1.985	202.523	Christmas	Kiribati	296	111	11	A	146	xmas	1	R	0
+2.1	117.75	Lungsurannaga	Indonesia	360	4101	410	A		lung	1	R	0
+2.215	102.153	Keling	Malaysia	458	1411	141	A		keli	1	R	0
+2.807	104.14	Tioman	Malaysia	458	3231	323	A		tiom	1	R	0
+3.05	101.358	Kelang	Malaysia	458	1401	140	A		kela	1	R	0
+3.217	113.067	Bintulu	Malaysia	458	3871	387	A		bint	1	R	0
+3.857	200.635	Fanning	Kiribati	296	123	12	C		fann	1	R	0
+3.9	282.9	Buenaventura	Colombia	170	851	85	A	170	buve	1	R	0
+3.907	200.613	Fanning	Kiribati	296	121	12	A		fann	1	R	0
+3.907	200.613	Fanning	Kiribati	296	122	12	B		fann	1	R	0
+3.975	103.43	Kuantan	Malaysia	458	3221	322	A		kuan	1	R	0
+4.007	9.127	Port Sonara	Cameroon	120	8161	816	A	350	sona	1	R	0
+4.183	73.517	Male	Maldives	462	1081	108	A	28	male	1	R	0
+4.19	73.527	Male, Hulule	Maldives	462	1082	108	B	28	male	1	R	0
+4.233	117.883	Tawau	Malaysia	458	3851	385	A		tawa	1	R	0
+4.24	100.613	Lumut	Malaysia	458	1431	143	A	43	peng	1	R	0
+4.392	113.972	Miri	Malaysia	458	3881	388	A		miri	1	R	0
+4.85	307.717	Cayenne	France	250	2271	227	A	202	caye	1	R	0
+4.883	358.25	Takoradi	Ghana	288	2311	231	A	335	tako	1	R	0
+4.883	358.25	Takoradi	Ghana	288	2312	231	B	335	tako	1	R	0
+4.885	358.255	Takoradi	Ghana	288	2313	231	C	335	tako	1	R	0
+5.242	356.0	Abidjanridi	Cote d'Ivoire	384	2301	230	A	257	abid	1	R	0
+5.265	103.187	Cendering	Malaysia	458	3201	320	A	293	chen	1	R	0
+5.285	307.415	Ile Royale	France	250	8501	850	A		iler	1	R	0
+5.288	307.413	I Royal, AnseLegoff	France	250	8511	851	A		iler	1	R	0
+5.422	100.347	Penang	Malaysia	458	1441	144	A		pena	1	R	0
+5.81	118.067	Sandakan	Malaysia	458	3891	389	A		sanda	1	R	0
+5.883	197.912	Palmyra Island	United States of America (the)	840	431	43	A		plmy	1	R	0
+5.888	95.317	Sabang	Indonesia	360	1231	123	A	347	saba	1	R	0
+5.888	197.917	Palmyra Island	United States of America (the)	840	432	43	B		plmy	1	R	0
+5.983	116.067	Kota Kinabalu	Malaysia	458	3861	386	A		kotak	1	R	0
+6.067	121.0	Jolo	Philippines (the)	608	3731	373	A	70	jolo	1	R	0
+6.227	102.107	Geting	Malaysia	458	3261	326	A		geti	1	R	0
+6.417	3.45	Lagos	Nigeria	566	2331	233	A	259	lagos	1	X	0
+6.423	3.412	Lagos	Nigeria	566	2333	233	C	259	lagos	1	R	0
+6.432	99.765	Langkawi	Malaysia	458	1421	142	A		lank	1	R	0
+6.767	73.167	Hanimaadhoo	Maldives	462	1171	117	A		hani	1	R	0
+6.767	73.173	Hanimaadhoo	Maldives	462	1172	117	B		hani	1	R	0
+6.933	79.85	Colombo	Sri Lanka	144	1151	115	A	33	colo	1	R	0
+6.935	79.858	Colombo	Sri Lanka	144	1153	115	C	33	colo	1	R	0
+6.942	79.85	Colombo	Sri Lanka	144	1154	115	D	33	colo	1	R	0
+6.948	79.853	Colombo	Sri Lanka	144	1152	115	B	33	colo	1	R	0
+7.083	125.633	Davao	Philippines (the)	608	3721	372	A	71	davo	1	R	0
+7.107	171.373	Majuro	Marshall Islands (the)	584	51	5	A	112	marsh	1	R	0
+7.108	171.372	Majuro	Marshall Islands (the)	584	52	5	B	112	marsh	1	R	0
+7.122	125.663	Davao	Philippines (the)	608	3722	372	B	71	davo	1	R	0
+7.33	134.463	Malakal	Palau	585	72	7	B	120	mala	1	R	0
+7.333	134.483	Malakal	Palau	585	71	7	A	120	mala	1	R	0
+7.45	151.85	Chuuk	Micronesia (Federated States of)	583	541	54	A	116	chuu	1	R	0
+7.832	98.425	Ko Taphao Noi	Thailand	764	1481	148	A	42	kota	1	R	0
+8.273	277.14	Puerto Armuelles	Panama	591	3041	304	A		ptoa	1	R	0
+8.273	277.14	Puerto Armuelles	Panama	591	3042	304	B		ptoa	1	R	0
+8.733	167.733	Kwajalein	Marshall Islands (the)	584	551	55	A	111	kwaj	1	R	0
+8.917	280.467	Naos	Panama	591	3001	300	A		naos	1	R	0
+8.917	280.467	Naos	Panama	591	3002	300	B		naos	1	R	0
+8.965	280.427	Balboa	Panama	591	3021	302	A	168	balb	1	R	0
+9.355	280.085	Cristobal	Panama	591	2661	266	A	208	coco	1	R	0
+9.4	275.833	Quepos	Costa Rica	188	871	87	A	167	quepo	1	R	0
+9.425	275.828	Quepos	Costa Rica	188	872	87	B	167	quepo	1	R	0
+9.508	138.128	Yap	Micronesia (Federated States of)	583	82	8	B	119	yapi	1	R	0
+9.517	138.133	Yap	Micronesia (Federated States of)	583	81	8	A	119	yapi	1	R	0
+9.558	281.052	El Porvenir	Panama	591	7391	739	A		elpo	1	R	0
+9.75	118.733	Puerto Princesa	Philippines (the)	608	3801	380	A		desea	1	R	0
+9.967	275.167	Puntarenas	Costa Rica	188	3961	396	A		punt	1	X	0
+9.988	276.98	Limon	Costa Rica	188	2682	268	B		limn	1	R	0
+10.0	276.967	Limon	Costa Rica	188	2681	268	A		limn	1	R	0
+10.1	298.583	Point Fortin	Trinidad and Tobago	780	7281	728	A		pnfo	1	R	0
+10.28	250.778	Clipperton	France	250	3911	391	A	165	clip	4	R	0
+10.28	250.778	Clipperton	France	250	3912	391	B	165	clip	4	R	0
+10.28	250.778	Clipperton	France	250	3913	391	C	165	clip	1	R	0
+10.28	250.778	Clipperton	France	250	3914	391	D	165	clip	1	R	0
+10.3	123.917	Cebu	Philippines (the)	608	3791	379	A		cebu	1	R	0
+10.34	107.072	Vung Tau	Viet Nam	704	3831	383	A		vung	1	R	0
+10.34	107.072	Vung Tau	Viet Nam	704	3832	383	B		vung	1	R	0
+10.383	284.467	Cartagena	Colombia	170	2651	265	A	207	cart	1	R	0
+10.383	284.467	Cartagena	Colombia	170	2652	265	B	207	cart	1	R	0
+10.617	293.067	La Guaira	Venezuela (Bolivarian Republic of)	862	2471	247	A	328	lagu	1	R	0
+10.65	298.483	Portf-Spain	Trinidad and Tobago	780	2481	248	A	203	ptsp	1	R	0
+11.235	285.778	Santa Marta	Colombia	170	7381	738	A		sama	1	R	0
+11.43	162.387	Enewetok	Marshall Islands (the)	584	61	6	A		enew	1	R	0
+11.43	162.387	Enewetok	Marshall Islands (the)	584	62	6	B		enew	1	R	0
+11.608	43.14	Djibouti	Djibouti	262	1191	119	A	2	djib	1	R	0
+11.795	99.817	Ko Lak	Thailand	764	3281	328	A	39	kola	1	R	0
+12.005	298.235	Prickley Bay	Grenada	308	7891	789	A		pric	1	R	0
+12.103	291.058	Willemstad	Curacao	531	7781	778	A		willm	1	R	0
+12.187	290.98	Bullen Bay	Curacao	531	8781	878	A		bull	1	R	0
+12.283	272.883	Corinto	Nicaragua	558	6791	679	A		cori	1	R	0
+12.478	272.832	Corinto	Nicaragua	558	6792	679	B		cori	1	R	0
+12.583	278.3	San Andres	Colombia	170	7371	737	A		sana	1	R	0
+12.788	44.975	Aden	Yemen	887	1721	172	A	3	aden	1	R	0
+13.1	300.383	Bridgetown	Barbados	52	2491	249	A		brid	1	R	0
+13.1	300.383	Bridgetown	Barbados	52	2492	249	B		brid	1	R	0
+13.1	300.383	Bridgetown	Barbados	52	2493	249	C		brid	1	R	0
+13.1	300.383	Bridgetown	Barbados	52	2494	249	D		brid	1	R	0
+13.15	123.75	Legaspi	Philippines (the)	608	3711	371	A	72	lega	1	R	0
+13.333	272.183	La Union	El Salvador	222	861	86	A		laun	1	R	0
+13.333	272.183	La Union	El Salvador	222	862	86	B		laun	1	R	0
+13.428	144.797	Pago Bay, Guam	United States of America (the)	840	371	37	A		pagb	1	R	0
+13.433	144.65	Guam	United States of America (the)	840	531	53	A	149	guam	1	R	0
+13.573	270.162	Acajutla	El Salvador	222	823	82	C	182	acaj	1	R	0
+13.583	270.167	Acajutla	El Salvador	222	821	82	A	182	acaj	1	R	0
+13.583	270.167	Acajutla	El Salvador	222	822	82	B	182	acaj	1	R	0
+13.767	109.25	Qui Nhon	Viet Nam	704	3811	381	A	75	quin	1	R	0
+13.775	109.255	Qui Nhon	Viet Nam	704	3812	381	B	75	quin	1	R	0
+13.82	120.21	Lubang	Philippines (the)	608	6551	655	A		luba	1	R	0
+13.917	269.167	San Jose	Guatemala	320	6751	675	A		sanjo	1	R	0
+13.917	269.17	Puerto Quetza	Guatemala	320	3013	301	C		ptqu	1	R	0
+13.922	269.215	Puerto Quetza	Guatemala	320	3012	301	B		ptqu	1	R	0
+13.922	269.215	Puerto Quetzal	Guatemala	320	3011	301	A		ptqu	1	X	0
+14.042	276.618	Puerto Cabezas	Nicaragua	558	7241	724	A		cabez	1	R	0
+14.3	268.083	Champerico	Guatemala	320	6701	670	A		cham	1	X	0
+14.583	298.95	Fort de France	France	250	2711	271	A		lero	1	R	0
+14.585	120.968	Manila	Philippines (the)	608	3701	370	A	73	mani	1	R	0
+14.667	342.57	Dakar	Senegal	686	2231	223	A	253	dakar	1	R	0
+14.667	342.57	Dakar	Senegal	686	2232	223	B	253	dakar	1	R	0
+14.667	342.57	Dakar	Senegal	686	2233	223	C	253	dakar	1	R	0
+14.667	342.57	Dakar	Senegal	686	2234	223	D	253	dakar	1	R	0
+14.677	342.58	Dakar	Senegal	686	2235	223	E	253	dakar	1	R	0
+14.683	299.067	Le Robert	France	250	2701	270	A		lero	1	R	0
+14.717	267.567	Puerto Madero	Mexico	484	3181	318	A		chia	1	R	0
+14.765	120.252	Subic Bay	Philippines (the)	608	3821	382	A		subi	1	R	0
+14.908	336.492	Praia, Cape Verde	Cabo Verde	132	2223	222	C		prai	1	R	0
+14.917	336.5	Praia, Cape Verde	Cabo Verde	132	2221	222	A		prai	1	R	0
+14.96	145.618	Tinian	Northern Mariana Islands (the)	580	6981	698	A		tini	1	R	0
+15.217	145.733	Saipan	United States of America (the)	840	281	28	A	118	saip	1	R	0
+15.227	145.742	Saipan	United States of America (the)	840	282	28	B	118	saip	1	R	0
+15.313	298.61	Roseau	Dominica	212	7861	786	A		rose	1	R	0
+15.657	263.507	Puerto Angel	Mexico	484	6721	672	A	164	ptan	1	R	0
+15.833	272.05	Puerto Cortes	Honduras	340	7801	780	A		ptco	1	R	0
+15.835	272.13	Puerto Cortes	Honduras	340	7802	780	B		ptco	1	R	0
+15.953	273.5	Cochino Pequeno	Honduras	340	2691	269	A		cochi	1	R	0
+16.017	273.967	Puerto Castilla	Honduras	340	7841	784	A		pcas	1	R	0
+16.16	264.797	Salina Cruz	Mexico	484	3941	394	A		sali	1	R	0
+16.225	298.468	Pointe-Pitre	France	250	2721	272	A		pnea	1	R	0
+16.465	97.622	Moulmein	Myanmar	104	9061	906	A	141	moul	1	R	0
+16.738	190.47	Johnston	United States of America (the)	840	521	52	A	109	john	1	R	0
+16.755	337.017	Palmeira	Cabo Verde	132	2351	235	A	329	plma	1	R	0
+16.84	260.088	Acapulco, Gro.	Mexico	484	3161	316	A	267	acap	1	R	0
+16.84	260.088	Acapulco, Gro.	Mexico	484	3162	316	B	267	acap	1	R	0
+16.842	260.148	Acapulco, Gro.	Mexico	484	3163	316	C	267	acap	1	R	0
+16.867	335.017	Porto Grande	Portugal	620	2161	216	A		ptog	1	R	0
+16.935	54.007	Salalah	Oman	512	1141	114	A	4	sala	1	R	0
+17.5	271.817	Belize	Belize	84	7811	781	A		beli	1	R	0
+17.637	258.442	Zihuatenajo, Gro.	Mexico	484	6871	687	A		zihu	1	R	0
+17.697	295.247	Limetree Bay	United States of America (the)	840	2541	254	A		lime	1	R	0
+17.75	295.295	Christiansted, VI	United States of America (the)	840	2581	258	A		chrt	1	R	0
+17.933	283.15	Port Royal	Jamaica	388	7821	782	A	210	ptro	1	R	0
+17.972	292.953	Magueyes Island, PR	United States of America (the)	840	2461	246	A		magi	1	R	0
+17.972	293.238	Penuelas, PR	Puerto Rico	630	2431	243	A		penu	1	R	0
+17.988	120.488	Currimao	Philippines (the)	608	6541	654	A		curri	1	R	0
+17.99	343.963	Nouakchott	Mauritania	478	8061	806	A		noct	1	R	0
+18.055	294.168	Yabucoa Harbor, PR	United States of America (the)	840	7341	734	A		yabu	1	R	0
+18.083	106.283	Vung Ang	Viet Nam	704	6511	651	A		vuna	1	R	0
+18.09	292.062	Mona Is., PR	United States of America (the)	840	2671	267	A		mona	1	R	0
+18.093	294.53	Esperanza, PR	Puerto Rico	630	7331	733	A		isab	1	R	0
+18.152	294.557	Isabel Segunda, PR	Puerto Rico	630	7321	732	A		isab	1	R	0
+18.22	292.84	Mayaguez, PR	Puerto Rico	630	7361	736	A		maya	1	R	0
+18.3	294.698	Culebra, PR	United States of America (the)	840	2191	219	A		cule	1	R	0
+18.317	295.277	Lameshur Bay, VI	United States of America (the)	840	2141	214	A		lame	1	R	0
+18.333	294.367	Fajardo, PR	Puerto Rico	630	7831	783	A		faja	1	R	0
+18.335	294.37	Fajardo, PR	Puerto Rico	630	7832	783	B		faja	1	R	0
+18.335	295.08	Charlotte Amalie	United States of America (the)	840	2551	255	A		amal	1	R	0
+18.457	292.837	Aguadilla, PR	United States of America (the)	840	2631	263	A		agua	1	R	0
+18.46	293.883	San Juan, PR	United States of America (the)	840	2451	245	A	206	sanj	1	R	0
+18.48	293.298	Arecibo, PR	Puerto Rico	630	7351	735	A		arac	1	R	0
+18.505	291.625	Punta Cana	Dominican Republic (the)	214	7761	776	A		ptca	1	R	0
+18.533	268.167	Ciudad del Carmen	Mexico	484	7791	779	A		ccar	1	R	0
+18.567	287.65	Portu-Prince	Haiti	332	7991	799	A	209	ptpr	1	R	0
+18.733	248.983	Socorro	Mexico	484	901	90	A	162	soco	1	R	0
+19.05	255.667	Manzanillo	Mexico	484	3952	395	B	163	manz	1	R	0
+19.053	255.67	Manzanillo	Mexico	484	3951	395	A	163	manz	1	R	0
+19.1	108.617	Dongfang	China	156	6371	637	A		dong	1	R	0
+19.2	263.867	Veracruz, Ver.	Mexico	484	2501	250	A	212	vera	1	R	0
+19.2	263.867	Veracruz, Ver.	Mexico	484	2502	250	B	212	vera	1	R	0
+19.283	166.617	Wake	United States of America (the)	840	511	51	A	105	wake	1	R	0
+19.733	204.933	Hilo, Hawaii	United States of America (the)	840	601	60	A	287	hilo	1	R	0
+19.798	289.298	Puerto Plata	Dominican Republic (the)	214	7771	777	A		ptpl	1	R	0
+19.907	284.853	Guantanamo Bay	Cuba	192	2511	251	A		guan	1	R	0
+19.907	284.853	Guantanamo Bay	Cuba	192	2512	251	B		guan	1	R	0
+20.017	110.283	Haikou	China	156	6381	638	A		haik	1	R	0
+20.033	204.167	Kawaihae	United States of America (the)	840	5521	552	A		kawa	1	R	0
+20.14	92.903	Akyab (Sittwe)	Myanmar	104	9071	907	A	37	sitt	1	R	0
+20.615	254.755	Vallarta	Mexico	484	3931	393	A		puert	1	R	0
+20.667	106.817	Hon Dau	Viet Nam	704	6501	650	A		hond	1	R	0
+20.667	106.817	Hon Dau	Viet Nam	704	6502	650	B		hond	1	R	0
+20.687	58.872	Masirah	Oman	512	1131	113	A		masi	1	R	0
+20.78	203.1	Kaumalapau, HI	United States of America (the)	840	5481	548	A		kaum	1	R	0
+20.858	269.597	Celestun	Mexico	484	8611	861	A		clst	1	R	0
+20.868	273.133	Puerto Moreles	Mexico	484	8601	860	A		pumo	1	R	0
+20.883	92.3	Teknaf	Bangladesh	50	1371	137	A		tekn	1	R	0
+20.9	203.533	Kahului	United States of America (the)	840	591	59	A		kahu	1	R	0
+21.117	283.883	Gibara	Cuba	192	2441	244	A	276	giba	1	R	0
+21.283	270.333	Progreso, Yuc.	Mexico	484	7211	721	A	213	prog	1	R	0
+21.283	270.333	Progreso, Yuc.	Mexico	484	7212	721	B	213	prog	1	R	0
+21.295	202.138	Honolulu, Kewalo	United States of America (the)	840	261	26	A	108	hono	1	R	0
+21.303	270.333	Progreso, Yuc.	Mexico	484	7213	721	C	213	prog	1	R	0
+21.305	202.137	Honolulu, Hawaii	United States of America (the)	840	571	57	A	108	hono	1	R	0
+21.307	202.133	Honolulu, Hawaii	United States of America (the)	840	572	57	B	108	hono	1	R	0
+21.318	202.115	Honolulu, Pier 45	United States of America (the)	840	271	27	A	108	hono	1	X	0
+21.32	201.88	Barbers Point, HI	United States of America (the)	840	5471	547	A		brpt	1	R	0
+21.34	270.692	Telchac, Yuk.	Mexico	484	8621	862	A		telc	1	R	0
+21.433	202.2	Mokuoloe	United States of America (the)	840	611	61	A		moku	1	R	0
+21.45	91.833	Cox's Bazaar	Bangladesh	50	1361	136	A		coxs	1	R	0
+21.483	109.083	Beihai	China	156	6361	636	A		beih	1	R	0
+21.483	288.467	South Caicos	United Kingdom of Great Britain and Northern Ireland (the)	826	7201	720	A	296	soca	1	R	0
+21.583	111.833	Zhapo	China	156	6351	635	A	78	zhap	1	R	0
+21.783	89.467	Hiron Point	Bangladesh	50	1341	134	A		hiro	1	R	0
+21.833	89.833	Khepupara	Bangladesh	50	1391	139	A		khep	1	R	0
+21.9	200.4	Port Allen	USA		5531	553	A		none	1	R	0
+21.967	200.65	Nawiliwili	United States of America (the)	840	581	58	A		nawi	1	R	0
+22.167	113.55	Macau	Portugal	620	3381	338	A		maca	1	R	0
+22.217	91.05	Charchanga	Bangladesh	50	1381	138	A		chch	1	R	0
+22.247	91.825	Chittagong	Bangladesh	50	1241	124	A	36	chtt	1	R	0
+22.262	262.205	Madero, Tampico	Mexico	484	2771	277	A		ciuda	1	R	0
+22.267	91.817	Khal #10	Bangladesh	50	1351	135	A		khal	1	X	0
+22.3	114.2	Hong Kong	Hong Kong	344	3291	329	A	77	quar	1	R	0
+22.3	114.217	Hong Kong	Hong Kong	344	3292	329	B	77	quar	1	R	0
+22.615	120.288	Kaohsiung	Taiwan (Province of China)	158	3401	340	A		kaoh	1	R	0
+22.75	115.35	Shanwei	China	156	6411	641	A		shan	1	R	0
+22.88	250.092	Cabo San Lucas	Mexico	484	341	34	A	161	cabo	1	R	0
+23.092	277.528	Siboney	Cuba	192	2391	239	A	215	sibon	1	R	0
+23.198	253.578	Mazatlan	Mexico	484	6731	673	A		maza	1	R	0
+23.628	58.565	Muscat	Oman	512	1101	110	A		musc	1	R	0
+23.628	58.565	Muscat	Oman	512	1102	110	B		musc	1	R	0
+23.773	283.895	Exuma Cays	Bahamas (the)	44	2561	256	A	12	exum	1	R	0
+23.868	193.712	French Frigate	United States of America (the)	840	141	14	A	107	fren	1	R	0
+23.868	193.712	French Frigate	United States of America (the)	840	142	14	B	107	fren	1	R	0
+24.162	249.655	La Paz	Mexico	484	6711	671	A		lpaz	1	R	0
+24.282	153.978	Minamitorishima	Japan	392	492	49	B	104	mins	1	R	0
+24.3	153.983	Minamitorishima	Japan	392	491	49	A	104	mins	1	R	0
+24.333	124.15	Ishigaki	Japan	392	3651	365	A		ishig	1	R	0
+24.45	118.067	Xiamen	China	156	3761	376	A	247	xiam	1	R	0
+24.553	278.192	Key West, FL	United States of America (the)	840	2421	242	A	216	kwfl	1	R	0
+24.79	247.88	San Carlos	Mexico	484	6741	674	A		sanc	1	R	0
+24.8	66.967	Karachi	Pakistan	586	1471	147	A	30	kara	1	R	0
+24.812	66.975	Karachi	Pakistan	586	1472	147	B	30	kara	1	R	0
+25.083	282.65	Nassau	Bahamas (the)	44	7271	727	A		nass	1	R	0
+25.157	121.745	Keelung	Taiwan (Province of China)	158	3411	341	A		keel	1	R	0
+25.297	60.603	Chabahar	Iran (Islamic Republic of)	364	9151	915	A	337	chab	1	R	0
+25.6	250.952	Topolobampo	Mexico	484	6761	676	A		topo	1	R	0
+25.732	279.838	Virginia Key, FL	United States of America (the)	840	7551	755	A	218	miam	1	R	0
+25.903	279.88	Miami	United States of America (the)	840	2411	241	A	218	miam	1	R	0
+26.017	248.633	Loreto	Mexico	484	3191	319	A		lore	1	R	0
+26.06	262.785	Port Isabel, TX	United States of America (the)	840	7721	772	A		pitx	1	R	0
+26.13	278.193	Naples, FL	United States of America (the)	840	7571	757	A		nafl	1	R	0
+26.217	127.667	Naha	Japan	392	3551	355	A	81	naha	1	R	0
+26.233	50.6	Mina Sulman	Bahrain	48	1821	182	A		minas	1	R	0
+26.69	281.017	Settlement Point	Bahamas (the)	44	2572	257	B	211	stpt	1	R	0
+26.703	250.487	Yavaros	Mexico	484	6771	677	A		yava	1	R	0
+26.71	281.003	Settlement Point	Bahamas (the)	44	2571	257	A	211	stpt	1	R	0
+27.58	262.783	Corpus Cristi, TX	United States of America (the)	840	7701	770	A		cctx	1	R	0
+27.76	277.373	St. Petersburg, FL	United States of America (the)	840	7591	759	A		spfl	1	R	0
+27.933	249.1	Guaymas	Mexico	484	3971	397	A		guay	1	R	0
+27.977	277.168	Clearwater Bch, FL	United States of America (the)	840	7731	773	A		cwfl	1	R	0
+28.022	262.953	Rockport, TX	United States of America (the)	840	7691	769	A		rptx	1	R	0
+28.088	121.282	Kanmen	China	156	6321	632	A	94	kanm	1	R	0
+28.1	244.817	Cedros Island	Mexico	484	3051	305	A		cedr	1	R	0
+28.1	344.6	Las Palmas	Spain	724	2171	217	A	251	pluz	1	R	0
+28.1	344.6	Las Palmas	Spain	724	2172	217	B	251	pluz	1	X	0
+28.1	344.6	Las Palmas	Spain	724	2173	217	C	251	pluz	1	R	0
+28.133	344.583	Las Palmas	Spain	724	2174	217	D	251	pluz	1	R	0
+28.217	182.633	Midway	United States of America (the)	840	501	50	A	106	midx	1	R	0
+28.368	279.4	Cocoa Beach, FL	United States of America (the)	840	7541	754	A		cocoa	1	R	0
+28.382	129.495	Naze	Japan	392	3591	359	A		naze	1	R	0
+28.415	279.407	Port Canaveral, FL	United States of America (the)	840	7741	774	A		tpfl	1	R	0
+28.478	343.76	Tenerife	Spain	724	2281	228	A		tene	1	R	0
+28.683	342.25	S.Cruz d. Palma	Spain	724	2061	206	A		lapa	1	R	0
+28.683	342.25	S.Cruz d. Palma	Spain	724	2062	206	B		lapa	1	R	0
+28.683	342.25	S.Cruz d. Palma	Spain	724	2064	206	D		lapa	1	R	0
+28.883	241.7	Guadalupe	Mexico	484	361	36	A	160	isla	1	R	0
+28.95	346.433	Arrecife	Spain	724	2051	205	A		arre	1	R	0
+28.95	346.433	Arrecife	Spain	724	2052	205	B		arre	1	R	0
+28.95	346.433	Arrecife	Spain	724	2054	205	D		arre	1	R	0
+28.958	246.45	Bahia Los Angeles	Mexico	484	3101	310	A		bahi	1	R	0
+28.99	270.86	South Pass, LA	United States of America (the)	840	7641	764	A		sopa	1	R	0
+29.263	270.043	Grand Isle, LA	United States of America (the)	840	7651	765	A		gila	1	R	0
+29.287	265.21	Galveston, P.Pier	United States of America (the)	840	7671	767	A	217	gptx	1	R	0
+29.31	265.207	Galveston, Pier 21	United States of America (the)	840	7751	775	A	217	gptx	1	R	0
+29.727	275.018	Apalachicola, FL	United States of America (the)	840	7601	760	A		apfl	1	R	0
+29.73	266.13	Sabine Pass N, TX	United States of America (the)	840	7661	766	A		sptx	1	R	0
+29.842	129.842	Nakano Shima	Japan	392	3451	345	A		naka	1	R	0
+29.857	278.738	St. Augustine, FL	United States of America (the)	840	2621	262	A		stau	1	R	0
+30.213	274.12	Panama City Beach	United States of America (the)	840	7611	761	A		pbfl	1	R	0
+30.25	271.925	Dauphin Island, AL	United States of America (the)	840	7631	763	A		dial	1	R	0
+30.395	278.568	Mayport, FL	United States of America (the)	840	7531	753	A		mpfl	1	R	0
+30.403	272.787	Pensacola, FL	United States of America (the)	840	7621	762	A	288	pnfl	1	R	0
+30.483	244.017	San Quintin	Mexico	484	3081	308	A		sanq	1	R	0
+30.672	278.533	Fernandina Beach	United States of America (the)	840	2401	240	A		fbfl	1	R	0
+30.735	130.992	Nishinoomote	Japan	392	3631	363	A		nish	1	R	0
+31.018	245.182	San Felipe	Mexico	484	3071	307	A		sanfe	1	R	0
+31.212	29.923	Alexandria	Egypt	818	8071	807	A	349	alex	1	R	0
+31.567	131.417	Aburatsu	Japan	392	3541	354	A	82	abur	1	R	0
+31.85	243.367	Ensenada	Mexico	484	3171	317	A		ense	1	R	0
+32.033	279.098	Fort Pulaski, GA	United States of America (the)	840	7521	752	A	289	fpga	1	R	0
+32.133	121.617	Lusi	China	156	6331	633	A	283	lusi	1	R	0
+32.373	295.297	Bermuda	United Kingdom of Great Britain and Northern Ireland (the)	826	2591	259	A	221	bmda	1	R	0
+32.373	295.297	Bermuda	United Kingdom of Great Britain and Northern Ireland (the)	826	2592	259	B	221	bmda	1	R	0
+32.417	131.683	Hosojima	Japan	392	3581	358	A		hoso	1	R	0
+32.64	343.093	Funchal	Portugal	620	2182	218	B	250	func	1	R	0
+32.713	242.827	San Diego	United States of America (the)	840	5691	569	A		sand	1	R	0
+32.733	129.867	Nagasaki	Japan	392	3621	362	A	83	nagas	1	R	0
+32.782	280.075	Charleston, SC	United States of America (the)	840	2611	261	A		charl	1	R	0
+32.782	280.075	Charleston, SC	United States of America (the)	840	2612	261	B		charl	1	R	0
+32.867	242.743	La Jolla, CA	United States of America (the)	840	5541	554	A	159	lajo	1	R	0
+33.45	241.517	Catalina	United States of America (the)	840	3131	313	A		cata	1	R	0
+33.45	241.517	Catalina	United States of America (the)	840	3132	313	B		cata	1	R	0
+33.467	135.783	Kushimoto	Japan	392	3531	353	A	85	kusm	1	R	0
+33.72	241.728	Los Angeles, CA	United States of America (the)	840	5671	567	A		losa	1	R	0
+34.008	241.5	Santa Monica, CA	United States of America (the)	840	5781	578	A		sanm	1	R	0
+34.067	139.482	Miyakejima	Japan	392	3571	357	A		miya	1	R	0
+34.227	282.047	Wilmington, NC	United States of America (the)	840	7501	750	A		winc	1	R	0
+34.408	240.315	Santa Barbara, CA	United States of America (the)	840	5771	577	A		sanb	1	R	0
+34.468	239.327	Harvest Oil P., CA	United States of America (the)	840	5941	594	A		harv	1	R	0
+34.683	137.617	Maisaka	Japan	392	3561	356	A		maisa	1	R	0
+34.75	119.417	Lianyungang	China	156	6391	639	A		lian	1	R	0
+34.9	132.067	Hamada	Japan	392	3481	348	A	326	hmda	1	R	0
+34.917	139.833	Mera	Japan	392	3521	352	A	86	mera	1	R	0
+35.177	239.24	Port San Luis, CA	United States of America (the)	840	5651	565	A		pslu	1	R	0
+35.383	119.55	Shijiusuo	China	156	6421	642	A		shij	1	R	0
+35.9	354.683	Ceuta	Spain	724	2071	207	A	249	ceut	1	R	0
+36.133	354.65	Gibraltar	United Kingdom of Great Britain and Northern Ireland (the)	826	2891	289	A	248	gibr	1	R	0
+36.133	354.65	Gibraltar	United Kingdom of Great Britain and Northern Ireland (the)	826	2892	289	B	248	gibr	1	R	0
+36.183	284.26	Duck Pier, NC	United States of America (the)	840	2601	260	A	219	dpnc	1	R	0
+36.605	238.112	Monterey, CA	United States of America (the)	840	5551	555	A		mont	1	R	0
+36.767	137.217	Toyama	Japan	392	3491	349	A	325	toya	1	R	0
+36.967	283.887	Chesapeake BBT	United States of America (the)	840	7491	749	A		cbva	1	R	0
+37.098	351.332	Lagos, Algarve	Portugal	620	7231	723	A		lgos	1	R	0
+37.735	334.328	Ponta Delgada	Portugal	620	2111	211	A	245	pdas	1	R	0
+37.807	237.535	San Francisco, CA	United States of America (the)	840	5511	551	A	158	fpnt	1	R	0
+38.533	331.378	Horta, Azores	Portugal	620	2121	212	A		hort	1	R	0
+38.65	332.76	Angra Heroismo	Portugal	620	2151	215	A		angr	1	R	0
+38.65	332.76	Angra Heroismo	Portugal	620	2152	215	B		angr	1	R	0
+38.692	350.583	Cascais	Portugal	620	2091	209	A	246	casc	1	R	0
+38.782	284.88	Lewes, DE	United States of America (the)	840	7471	747	A		lede	1	R	0
+38.867	121.683	Laohutan	China	156	6311	631	A	79	laoh	1	R	0
+38.913	236.292	Arena Cove, CA	United States of America (the)	840	5731	573	A		aren	1	R	0
+38.925	121.658	Dalian	China	156	6301	630	A	79	laoh	1	R	0
+38.968	285.04	Cape May, NJ	United States of America (the)	840	7461	746	A		cmnj	1	R	0
+39.017	141.75	Ofunato	Japan	392	3511	351	A	87	ofun	1	R	0
+39.378	328.832	Flores, Lajes	Portugal	620	2131	213	A	244	santf	1	R	0
+39.453	328.88	Flores, Santa Cruz	Portugal	620	2101	210	A	244	santf	1	R	0
+40.533	141.533	Hachinohe	Japan	392	3751	375	A		hach	1	R	0
+40.7	285.985	New York, NY	United States of America (the)	840	7451	745	A		btny	1	R	0
+40.767	235.783	Humboldt Bay, CA	United States of America (the)	840	5761	576	A		nspi	1	R	0
+41.048	288.04	Montauk, NY	United States of America (the)	840	2791	279	A		mony	1	R	0
+41.285	289.903	Nantucket, MA	United States of America (the)	840	7431	743	A		tuma	1	R	0
+41.355	287.913	New London, CT	United States of America (the)	840	7441	744	A		nlct	1	R	0
+41.505	288.673	Newport, RI	United States of America (the)	840	2531	253	A	290	neri	1	R	0
+41.523	289.328	Woods Hole, MA	United States of America (the)	840	7421	742	A		wood	1	R	0
+41.745	235.817	Crescent City, CA	United States of America (the)	840	5561	556	A		cres	1	R	0
+41.783	140.733	Hakodate	Japan	392	3641	364	A	88	hako	1	R	0
+42.233	351.267	Vigo	Spain	724	2081	208	A		vigo	1	R	0
+42.355	288.948	Boston, MA	United States of America (the)	840	7411	741	A		boma	1	R	0
+42.74	235.503	Port Orford, OR	United States of America (the)	840	5571	557	A		porf	1	R	0
+42.967	144.383	Kushiro	Japan	392	3501	350	A	89	kush	1	R	0
+43.278	5.353	Marseille	France	250	8241	824	A	205	mars	1	R	0
+43.345	235.678	Charleston, OR	United States of America (the)	840	5751	575	A		char	1	R	0
+43.367	351.6	La Coruna	Spain	724	8301	830	A	243	coru	1	R	0
+43.657	289.753	Portland, ME	United States of America (the)	840	2521	252	A		ptme	1	R	0
+44.017	144.283	Abashiri	Japan	392	3471	347	A	327	abas	1	R	0
+44.625	235.957	South Beach, OR	United States of America (the)	840	5921	592	A	157	sbea	1	R	0
+44.667	296.417	Halifax	Canada	124	2751	275	A	222	hali	1	R	0
+44.903	293.015	Eastport, ME	United States of America (the)	840	7401	740	A		epme	1	R	0
+45.417	141.683	Wakkanai	Japan	392	3601	360	A	324	waka	1	R	0
+46.208	236.233	Astoria, OR	United States of America (the)	840	5721	572	A		asto	1	R	0
+46.708	236.035	Willapa Bay, WA	United States of America (the)	840	5641	564	A		wilb	1	R	0
+47.567	307.3	St. John's	Canada	124	2761	276	A	223	stjo	1	R	0
+47.567	307.3	St. John's	Canada	124	2762	276	B	223	stjo	1	R	0
+48.125	236.56	Port Angeles, WA	United States of America (the)	840	5841	584	A		pang	1	R	0
+48.368	235.383	Neah Bay, WA	United States of America (the)	840	5581	558	A		neah	1	R	0
+48.383	355.5	Brest	France	250	8221	822	A	242	bres	1	R	0
+48.422	236.63	Victoria, BC	Canada	124	5431	543	A		pbbc	1	R	0
+49.153	234.087	Tofino	Canada	124	5421	542	A	156	tofi	1	R	0
+50.102	354.458	Newlyn, Cornwall	United Kingdom of Great Britain and Northern Ireland (the)	826	2941	294	A	241	newl	1	R	0
+51.65	350.097	Castletownbere	Ireland	372	8351	835	A	330	cast	1	R	0
+51.858	183.365	Adak, Alaska	United States of America (the)	840	401	40	A	302	adak	1	R	0
+52.833	173.2	Massacre Bay, AK	United States of America (the)	840	5501	550	A	303	mass	1	R	0
+53.867	8.717	Cuxhaven	Germany	276	8251	825	A	284	cuxh	1	R	0
+53.88	193.463	Dutch Harbor, AK	United States of America (the)	840	411	41	A	102	dutc	1	R	0
+53.88	193.463	Dutch Harbor, AK	United States of America (the)	840	412	41	B	102	dutc	1	R	0
+54.317	229.677	Prince Rupert	Canada	124	5401	540	A	155	prin	1	R	0
+54.567	11.933	Gedser	Denmark	208	8371	837	A		geds	1	R	0
+55.333	228.375	Ketchikan, AK	United States of America (the)	840	5711	571	A		ketc	1	R	0
+55.337	199.498	Sand Point, AK	United States of America (the)	840	5741	574	A	100	sdpt	1	R	0
+55.367	352.667	Malin Head	Ireland	372	8341	834	A	239	mali	1	R	0
+56.1	12.467	Hornbaek	Denmark	208	8381	838	A		hornm	1	R	0
+56.55	298.317	Nain	Canada	124	8331	833	A	224	nain	1	R	0
+57.052	224.658	Sitka, AK	United States of America (the)	840	5591	559	A	154	sitk	1	R	0
+57.683	11.8	Goteborgorsh.	Sweden	752	8191	819	A	233	goto	1	R	0
+57.73	207.487	Kodiak Isl., Alaska	United States of America (the)	840	392	39	B		kodi	1	R	0
+57.748	207.517	Kodiak Isl., Alaska	United States of America (the)	840	391	39	A		kodi	1	R	0
+58.0	7.567	Tregde	Norway	578	8041	804	A	321	treg	1	R	0
+58.208	353.612	Stornoway	United Kingdom of Great Britain and Northern Ireland (the)	826	2951	295	A	238	stor	1	R	0
+58.783	265.8	Churchill	Canada	124	2741	274	A		chur	1	R	0
+59.325	18.082	Stockholm	Sweden	752	8261	826	A	341	sthm	1	R	0
+59.44	208.28	Seldovia, AK	United States of America (the)	840	5611	561	A		seld	1	R	0
+59.548	220.265	Yakutat, AK	United States of America (the)	840	5701	570	A		yaku	1	R	0
+60.12	210.573	Seward, AK	United States of America (the)	840	5601	560	A	150	sewa	1	R	0
+60.12	210.573	Seward, AK	United States of America (the)	840	5602	560	B	150	sewa	1	R	0
+60.12	210.573	Seward, AK	United States of America (the)	840	5603	560	C	150	sewa	1	R	0
+60.155	358.86	Lerwick	United Kingdom of Great Britain and Northern Ireland (the)	826	2931	293	A	236	lerw	1	R	0
+60.558	214.247	Cordova, Alaska	United States of America (the)	840	5831	583	A		cord	1	R	0
+60.558	214.247	Cordova, Alaska	United States of America (the)	840	5832	583	B		cord	1	R	0
+60.717	313.967	Qaqortoq	Denmark	208	2991	299	A	344	qaqo	1	R	0
+61.125	213.638	Valdez, AK	United States of America (the)	840	5621	562	A		vald	1	R	0
+61.933	5.117	Maloy	Norway	578	8021	802	A		malo	1	R	0
+64.15	338.067	Reykjavik	Iceland	352	2881	288	A	229	reyk	1	R	0
+64.4	186.8	Providenya	Russian Federation (the)	643	6261	626	A	309	prov	1	R	0
+64.4	186.8	Providenya	Russian Federation (the)	643	6262	626	B	309	prov	1	R	0
+64.5	194.57	Nome, AK	United States of America (the)	840	5951	595	A	74	nome	1	R	0
+64.867	11.25	Rorvik	Norway	578	8031	803	A	234	rorv	1	R	0
+65.615	322.375	Ammassalik	Denmark	208	2971	297	A	228	amma	1	R	0
+66.933	306.333	Sisimiut	Denmark	208	2961	296	A		sisi	1	R	0
+69.217	308.9	Ilulissat	Denmark	208	2981	298	A		ilul	1	R	0
+69.317	16.15	Andenes	Norway	578	8001	800	A	322	ande	1	R	0
+70.333	31.1	Vardo	Norway	578	8051	805	A	323	vard	1	R	0
+70.4	211.473	Prudhoe Bay, AK	United States of America (the)	840	5791	579	A	151	prud	1	R	0
+70.983	25.983	Honningsvag	Norway	578	8011	801	A		honn	1	R	0
+75.383	263.05	L. Cornwallis I.	Canada	124	7051	705	A	153	litt	1	R	0
+78.933	11.95	Nylesund	Norway	578	8231	823	A	345	nyal	1	R	0

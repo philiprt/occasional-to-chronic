@@ -1,5 +1,5 @@
-# The Global South is disproportionately vulnerable to rapid increases in coastal flooding
-Thompson et al. (2024), *Submitted to Nature Climate Change*, doi: [TBD](https://doi.org/????)
+# Geographic and socioeconomic disparities in the timescale of increasing coastal flooding frequency
+Thompson et al. (2026), *Submitted to Nature Climate Change*, doi: [TBD](https://doi.org/????)
 
 This repository contains the code and notebooks used to produce the results and figures presented in the paper cited above. For best results, run this code in a virtual environment generated from the provided `requirements.txt` file. A description of the contents of this repository follows, where all paths hereafter are relative to the top-level `occasional_to_chronic/` directory.
 

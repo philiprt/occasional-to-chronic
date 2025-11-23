@@ -1,178 +1,594 @@
-uhslc_id,latitude,longitude,station_name,station_country,station_country_code,station_country_alpha3,hdi
-700,-65.25,295.733,Faraday,Antarctica,10,ATA,
-730,-62.483,300.333,Base Prat,Chile,152,CHL,0.855
-600,-54.805,291.705,Ushuaia,Argentina,32,ARG,0.842
-290,-51.75,302.067,Port Stanley,United Kingdom of Great Britain and Northern Ireland (the),826,GBR,0.929
-286,-47.75,294.083,Puerto Deseado,Argentina,32,ARG,0.842
-403,-43.983,168.617,Jackson,New Zealand,554,NZL,0.937
-731,-42.763,294.97,Puerto Madryn,Argentina,32,ARG,0.842
-335,-42.55,147.933,Spring Bay,Australia,36,AUS,0.951
-684,-41.483,287.033,Puerto Montt,Chile,152,CHL,0.855
-129,-38.343,141.613,"Portland, S.Aus.",Australia,36,AUS,0.951
-729,-38.035,302.462,Mar del Plata,Argentina,32,ARG,0.842
-221,-34.183,18.433,Simon's Town,South Africa,710,ZAF,0.713
-184,-33.96,25.63,Port Elizabeth,South Africa,710,ZAF,0.713
-176,-33.867,121.9,Esperance,Australia,36,AUS,0.951
-333,-33.85,151.233,Fort Denison,Australia,36,AUS,0.951
-21,-33.622,281.167,Juan Fernandez,Chile,152,CHL,0.855
-81,-33.033,288.367,Valparaiso,Chile,152,CHL,0.855
-128,-32.15,133.64,Thevenard,Australia,36,AUS,0.951
-175,-32.05,115.733,Fremantle,Australia,36,AUS,0.951
-181,-29.883,31.0,Durban,South Africa,710,ZAF,0.713
-331,-27.367,153.167,Brisbane,Australia,36,AUS,0.951
-22,-27.15,250.552,Easter,Chile,152,CHL,0.855
-88,-27.067,289.167,Caldera,Chile,152,CHL,0.855
-35,-26.283,279.867,San Felix,Chile,152,CHL,0.855
-332,-24.833,152.35,Bundaberg,Australia,36,AUS,0.951
-80,-23.65,289.6,Antofagasta,Chile,152,CHL,0.855
-16,-23.125,225.047,Rikitea,France,250,FRA,0.903
-23,-21.207,200.225,Rarotonga,Cook Islands (the),184,COK,0.937
-38,-21.133,184.833,Nuku'alofa,Tonga,776,TON,0.745
-164,-20.923,55.293,Reunion,France,250,FRA,0.903
-103,-20.155,57.495,Port Louis,Mauritius,480,MUS,0.802
-105,-19.668,63.418,Rodrigues,Mauritius,480,MUS,0.802
-334,-19.25,146.833,Townsville,Australia,36,AUS,0.951
-598,-19.033,190.083,Alofi,Niue,570,NIU,0.937
-83,-18.467,289.667,Arica,Chile,152,CHL,0.855
-18,-18.132,178.427,Suva,Fiji,242,FJI,0.73
-166,-18.0,122.217,Broome,Australia,36,AUS,0.951
-46,-17.767,168.3,Port Vila,Vanuatu,548,VUT,0.607
-402,-17.6,177.433,Lautoka,Fiji,242,FJI,0.73
-15,-17.525,210.433,Papeete,France,250,FRA,0.903
-94,-17.002,287.892,Matarani,Peru,604,PER,0.762
-56,-14.283,189.317,Pago Pago,American Samoa,16,ASM,0.921
-401,-13.817,188.25,Apia,Samoa,882,WSM,0.707
-708,-12.967,321.483,"Salvador, USCGS",Brazil,76,BRA,0.754
-155,-12.78,45.257,Dzaoudzi,France,250,FRA,0.903
-168,-12.467,130.85,Darwin,Australia,36,AUS,0.951
-171,-12.117,96.9,Cocos,Australia,36,AUS,0.951
-17,-9.81,220.973,Hiva Oa,France,250,FRA,0.903
-9,-9.425,159.957,Honiara,Solomon Islands,90,SLB,0.564
-24,-8.977,201.947,Penrhyn,Cook Islands (the),184,COK,0.937
-31,-8.93,219.918,Nuku Hiva,France,250,FRA,0.903
-163,-8.745,115.21,Benoa,Indonesia,360,IDN,0.705
-25,-8.525,179.195,Funafuti,Tuvalu,798,TUV,0.641
-162,-7.752,109.017,Cilicap,Indonesia,360,IDN,0.705
-104,-7.29,72.393,Diego Garcia,United Kingdom of Great Britain and Northern Ireland (the),826,GBR,0.929
-151,-6.155,39.19,Zanzibar,"Tanzania, United Republic of",834,TZA,0.549
-121,-4.672,55.528,Pt. La Rue,Seychelles,690,SYC,0.785
-92,-4.582,278.718,Talara,Peru,604,PER,0.762
-101,-4.07,39.657,Mombasa,Kenya,404,KEN,0.575
-283,-3.717,321.533,Fortaleza,Brazil,76,BRA,0.754
-13,-2.81,188.282,Kanton,Kiribati,296,KIR,0.624
-149,-2.272,40.903,Lamu,Kenya,404,KEN,0.575
-91,-2.2,279.083,La Libertad,Ecuador,218,ECU,0.74
-400,-2.033,147.367,Lombrum,Papua New Guinea,598,PNG,0.558
-30,-0.753,269.688,Santa Cruz,Ecuador,218,ECU,0.74
-109,-0.687,73.152,Gan,Maldives,462,MDV,0.747
-3,-0.435,269.715,Baltra,Ecuador,218,ECU,0.74
-29,1.098,154.777,Kapingamarangi,Micronesia (Federated States of),583,FSM,0.628
-2,1.362,172.93,"Tarawa, Bairiki",Kiribati,296,KIR,0.624
-33,1.438,125.19,Bitung,Indonesia,360,IDN,0.705
-108,4.183,73.533,Male,Maldives,462,MDV,0.747
-123,5.833,95.333,Sabang,Indonesia,360,IDN,0.705
-43,5.872,197.912,Palmyra Island,United States of America (the),840,USA,0.921
-117,6.767,73.167,Hanimaadhoo,Maldives,462,MDV,0.747
-115,6.963,79.858,Colombo,Sri Lanka,144,LKA,0.782
-1,6.978,158.197,Pohnpei,Micronesia (Federated States of),583,FSM,0.628
-372,7.083,125.633,Davao,Philippines (the),608,PHL,0.699
-5,7.107,171.373,Majuro,Marshall Islands (the),584,MHL,0.639
-7,7.33,134.463,Malakal,Palau,585,PLW,0.767
-54,7.45,151.85,Chuuk,Micronesia (Federated States of),583,FSM,0.628
-55,8.733,167.733,Kwajalein,Marshall Islands (the),584,MHL,0.639
-87,9.4,275.833,Quepos,Costa Rica,188,CRI,0.809
-8,9.508,138.128,Yap,Micronesia (Federated States of),583,FSM,0.628
-739,9.558,281.052,El Porvenir,Panama,591,PAN,0.805
-268,10.0,276.967,Limon,Costa Rica,188,CRI,0.809
-738,11.235,285.778,Santa Marta,Colombia,170,COL,0.752
-789,12.0,298.233,Prickley Bay,Grenada,308,GRD,0.795
-878,12.187,290.98,Bullen Bay,Curacao,531,CUW,0.941
-737,12.568,278.298,San Andres,Colombia,170,COL,0.752
-371,13.15,123.75,Legaspi,Philippines (the),608,PHL,0.699
-53,13.433,144.65,Guam,United States of America (the),840,USA,0.921
-82,13.583,270.167,Acajutla,El Salvador,222,SLV,0.675
-655,13.817,120.202,Lubang,Philippines (the),608,PHL,0.699
-370,14.583,120.967,Manila,Philippines (the),608,PHL,0.699
-271,14.6,298.933,Fort de France,France,250,FRA,0.903
-382,14.765,120.252,Subic Bay,Philippines (the),608,PHL,0.699
-786,15.3,298.6,Roseau,Dominica,212,DMA,0.72
-52,16.75,190.483,Johnston,United States of America (the),840,USA,0.921
-235,16.75,337.017,Palmeira,Cabo Verde,132,CPV,0.662
-114,16.935,54.007,Salalah,Oman,512,OMN,0.816
-806,18.1,344.05,Nouakchott,Mauritania,478,MRT,0.556
-245,18.46,293.883,"San Juan, PR",United States of America (the),840,USA,0.921
-776,18.5,291.62,Punta Cana,Dominican Republic (the),214,DOM,0.767
-799,18.567,287.65,Portu-Prince,Haiti,332,HTI,0.535
-51,19.283,166.617,Wake,United States of America (the),840,USA,0.921
-60,19.733,204.933,"Hilo, Hawaii",United States of America (the),840,USA,0.921
-777,19.8,289.3,Puerto Plata,Dominican Republic (the),214,DOM,0.767
-552,20.033,204.167,Kawaihae,United States of America (the),840,USA,0.921
-907,20.15,92.9,Akyab (Sittwe),Myanmar,104,MMR,0.585
-59,20.9,203.533,Kahului,United States of America (the),840,USA,0.921
-57,21.307,202.133,"Honolulu, Hawaii",United States of America (the),840,USA,0.921
-547,21.322,201.88,"Barbers Point, HI",United States of America (the),840,USA,0.921
-61,21.433,202.2,Mokuoloe,United States of America (the),840,USA,0.921
-58,21.967,200.65,Nawiliwili,United States of America (the),840,USA,0.921
-124,22.237,91.827,Chittagong,Bangladesh,50,BGD,0.661
-49,24.3,153.967,Minamitorishima,Japan,392,JPN,0.925
-365,24.333,124.15,Ishigaki,Japan,392,JPN,0.925
-242,24.553,278.192,"Key West, FL",United States of America (the),840,USA,0.921
-147,24.8,66.967,Karachi,Pakistan,586,PAK,0.544
-755,25.732,279.838,"Virginia Key, FL",United States of America (the),840,USA,0.921
-355,26.217,127.667,Naha,Japan,392,JPN,0.925
-257,26.69,281.017,Settlement Point,Bahamas (the),44,BHS,0.812
-47,27.1,142.183,Chichijima,Japan,392,JPN,0.925
-50,28.217,182.633,Midway,United States of America (the),840,USA,0.921
-359,28.378,129.498,Naze,Japan,392,JPN,0.925
-775,29.31,265.207,"Galveston, Pier 21",United States of America (the),840,USA,0.921
-345,29.833,129.85,Nakano Shima,Japan,392,JPN,0.925
-762,30.403,272.787,"Pensacola, FL",United States of America (the),840,USA,0.921
-363,30.732,130.995,Nishinoomote,Japan,392,JPN,0.925
-354,31.567,131.417,Aburatsu,Japan,392,JPN,0.925
-752,32.033,279.098,"Fort Pulaski, GA",United States of America (the),840,USA,0.921
-259,32.373,295.297,Bermuda,United Kingdom of Great Britain and Northern Ireland (the),826,GBR,0.929
-569,32.715,242.827,San Diego,United States of America (the),840,USA,0.921
-362,32.733,129.867,Nagasaki,Japan,392,JPN,0.925
-261,32.783,280.067,"Charleston, SC",United States of America (the),840,USA,0.921
-554,32.867,242.742,"La Jolla, CA",United States of America (the),840,USA,0.921
-353,33.467,135.783,Kushimoto,Japan,392,JPN,0.925
-356,34.683,137.617,Maisaka,Japan,392,JPN,0.925
-348,34.9,132.067,Hamada,Japan,392,JPN,0.925
-352,34.917,139.833,Mera,Japan,392,JPN,0.925
-207,35.9,354.683,Ceuta,Spain,724,ESP,0.905
-260,36.183,284.26,"Duck Pier, NC",United States of America (the),840,USA,0.921
-349,36.767,137.217,Toyama,Japan,392,JPN,0.925
-211,37.735,334.327,Ponta Delgada,Portugal,620,PRT,0.866
-551,37.807,237.535,"San Francisco, CA",United States of America (the),840,USA,0.921
-209,38.692,350.583,Cascais,Portugal,620,PRT,0.866
-351,39.067,141.717,Ofunato,Japan,392,JPN,0.925
-264,39.355,285.582,Atlantic City,United States of America (the),840,USA,0.921
-253,41.505,288.673,"Newport, RI",United States of America (the),840,USA,0.921
-556,41.745,235.817,"Crescent City, CA",United States of America (the),840,USA,0.921
-364,41.783,140.733,Hakodate,Japan,392,JPN,0.925
-350,42.967,144.383,Kushiro,Japan,392,JPN,0.925
-824,43.3,5.35,Marseille,France,250,FRA,0.903
-830,43.367,351.6,La Coruna,Spain,724,ESP,0.905
-347,44.017,144.283,Abashiri,Japan,392,JPN,0.925
-592,44.625,235.957,"South Beach, OR",United States of America (the),840,USA,0.921
-360,45.4,141.683,Wakkanai,Japan,392,JPN,0.925
-558,48.368,235.383,"Neah Bay, WA",United States of America (the),840,USA,0.921
-822,48.383,355.5,Brest,France,250,FRA,0.903
-542,49.15,234.083,Tofino,Canada,124,CAN,0.936
-835,51.533,350.817,Castletownbere,Ireland,372,IRL,0.945
-40,51.858,183.365,"Adak, Alaska",United States of America (the),840,USA,0.921
-825,53.867,8.717,Cuxhaven,Germany,276,DEU,0.942
-41,53.88,193.462,"Dutch Harbor, AK",United States of America (the),840,USA,0.921
-540,54.317,229.667,Prince Rupert,Canada,124,CAN,0.936
-571,55.333,228.375,"Ketchikan, AK",United States of America (the),840,USA,0.921
-574,55.337,199.498,"Sand Point, AK",United States of America (the),840,USA,0.921
-834,55.367,352.667,Malin Head,Ireland,372,IRL,0.945
-833,56.55,298.3,Nain,Canada,124,CAN,0.936
-559,57.052,224.658,"Sitka, AK",United States of America (the),840,USA,0.921
-39,57.732,207.488,"Kodiak Isl., Alaska",United States of America (the),840,USA,0.921
-826,59.317,18.083,Stockholm,Sweden,752,SWE,0.947
-570,59.547,220.265,"Yakutat, AK",United States of America (the),840,USA,0.921
-560,60.12,210.573,"Seward, AK",United States of America (the),840,USA,0.921
-299,60.717,313.967,Qaqortoq,Denmark,208,DNK,0.948
-595,64.5,194.57,"Nome, AK",United States of America (the),840,USA,0.921
-579,70.4,211.473,"Prudhoe Bay, AK",United States of America (the),840,USA,0.921
+uhslc_id,latitude,longitude,station_name,station_country,station_country_code,gloss_id,station_country_alpha3,hdi
+1,6.978,158.197,Pohnpei,Micronesia (Federated States of),583,115,FSM,0.614
+2,1.332,173.013,"Tarawa, Bairiki",Kiribati,296,113,KIR,0.642
+3,-0.437,269.715,Baltra,Ecuador,218,169,ECU,0.773
+4,-0.532,166.91,Nauru,Nauru,520,114,NRU,0.7
+5,7.107,171.373,Majuro,Marshall Islands (the),584,112,MHL,0.732
+6,11.43,162.387,Enewetok,Marshall Islands (the),584,-1,MHL,0.732
+7,7.333,134.483,Malakal,Palau,585,120,PLW,0.786
+8,9.508,138.128,Yap,Micronesia (Federated States of),583,119,FSM,0.614
+9,-9.425,159.957,Honiara,Solomon Islands,90,66,SLB,0.583
+10,-4.2,152.175,Rabaul,Papua New Guinea,598,65,PNG,0.572
+11,1.985,202.523,Christmas,Kiribati,296,146,KIR,0.642
+12,3.857,200.635,Fanning,Kiribati,296,-1,KIR,0.642
+13,-2.81,188.282,Kanton,Kiribati,296,145,KIR,0.642
+14,23.867,193.71,French Frigate,United States of America (the),840,107,USA,0.93
+15,-17.525,210.433,Papeete,France,250,140,FRA,0.916
+16,-23.125,225.047,Rikitea,France,250,138,FRA,0.916
+17,-9.81,220.973,Hiva Oa,France,250,-1,FRA,0.916
+18,-18.132,178.427,Suva,Fiji,242,122,FJI,0.726
+19,-22.242,166.417,Noumea,France,250,123,FRA,0.916
+21,-33.622,281.167,Juan Fernandez,Chile,152,176,CHL,0.869
+22,-27.15,250.552,Easter,Chile,152,137,CHL,0.869
+23,-21.207,200.225,Rarotonga,Cook Islands (the),184,139,COK,0.933
+24,-8.977,201.947,Penrhyn,Cook Islands (the),184,143,COK,0.933
+25,-8.525,179.195,Funafuti,Tuvalu,798,121,TUV,0.686
+26,21.295,202.138,"Honolulu, Kewalo",United States of America (the),840,108,USA,0.93
+27,21.318,202.115,"Honolulu, Pier 45",United States of America (the),840,108,USA,0.93
+28,15.227,145.742,Saipan,United States of America (the),840,118,USA,0.93
+29,1.098,154.777,Kapingamarangi,Micronesia (Federated States of),583,117,FSM,0.614
+30,-0.753,269.688,Santa Cruz,Ecuador,218,-1,ECU,0.773
+31,-8.93,219.918,Nuku Hiva,France,250,142,FRA,0.916
+33,1.438,125.19,Bitung,Indonesia,360,69,IDN,0.726
+34,22.88,250.092,Cabo San Lucas,Mexico,484,161,MEX,0.783
+35,-26.292,279.892,San Felix,Chile,152,177,CHL,0.869
+36,28.883,241.7,Guadalupe,Mexico,484,160,MEX,0.783
+37,13.428,144.797,"Pago Bay, Guam",United States of America (the),840,-1,USA,0.93
+38,-21.133,184.833,Nuku'alofa,Tonga,776,125,TON,0.764
+39,57.732,207.488,"Kodiak Isl., Alaska",United States of America (the),840,-1,USA,0.93
+40,51.858,183.365,"Adak, Alaska",United States of America (the),840,302,USA,0.93
+41,53.88,193.462,"Dutch Harbor, AK",United States of America (the),840,102,USA,0.93
+43,5.888,197.917,Palmyra Island,United States of America (the),840,-1,USA,0.93
+45,-0.383,199.967,Jarvis,United States of America (the),840,-1,USA,0.93
+46,-17.733,168.317,Port Vila,Vanuatu,548,348,VUT,0.621
+47,27.1,142.183,Chichijima,Japan,392,103,JPN,0.921
+48,-6.183,155.883,Anewa Bay,Papua New Guinea,598,-1,PNG,0.572
+49,24.3,153.967,Minamitorishima,Japan,392,104,JPN,0.921
+50,28.217,182.633,Midway,United States of America (the),840,106,USA,0.93
+51,19.283,166.617,Wake,United States of America (the),840,105,USA,0.93
+52,16.738,190.47,Johnston,United States of America (the),840,109,USA,0.93
+53,13.433,144.65,"Apra Harbor, Guam",United States of America (the),840,149,USA,0.93
+54,7.453,151.898,Chuuk,Micronesia (Federated States of),583,116,FSM,0.614
+55,8.733,167.733,Kwajalein,Marshall Islands (the),584,111,MHL,0.732
+56,-14.283,189.317,Pago Pago,American Samoa,16,144,ASM,0.93
+57,21.307,202.133,"Honolulu, Hawaii",United States of America (the),840,108,USA,0.93
+58,21.967,200.65,Nawiliwili,United States of America (the),840,-1,USA,0.93
+59,20.9,203.533,Kahului,United States of America (the),840,-1,USA,0.93
+60,19.733,204.933,"Hilo, Hawaii",United States of America (the),840,287,USA,0.93
+61,21.433,202.2,Mokuoloe,United States of America (the),840,-1,USA,0.93
+62,-29.067,167.95,Norfolk Island,Australia,36,124,AUS,0.952
+63,-3.57,143.633,Wewak,Papua New Guinea,598,-1,PNG,0.572
+64,-9.478,147.14,Port Moresby,Papua New Guinea,598,-1,PNG,0.572
+65,-2.013,147.272,Manus,Papua New Guinea,598,331,PNG,0.572
+66,-5.2,145.8,Madang,Papua New Guinea,598,-1,PNG,0.572
+67,-6.733,146.983,Lae,Papua New Guinea,598,-1,PNG,0.572
+68,-2.585,150.795,Kavieng,Papua New Guinea,598,-1,PNG,0.572
+69,-10.317,150.453,Alotau,Papua New Guinea,598,63,PNG,0.572
+70,-36.85,174.767,Auckland,New Zealand,554,127,NZL,0.933
+71,-41.283,174.783,Wellington,New Zealand,554,101,NZL,0.933
+72,-46.6,168.35,Bluff,New Zealand,554,129,NZL,0.933
+73,-37.65,176.183,Tauranga,New Zealand,554,-1,NZL,0.933
+74,-41.733,171.6,West Port,New Zealand,554,-1,NZL,0.933
+75,-39.947,174.99,Wanganui,New Zealand,554,-1,NZL,0.933
+76,-39.05,174.033,Taranaki,New Zealand,554,-1,NZL,0.933
+77,-41.267,173.267,Nelson,New Zealand,554,-1,NZL,0.933
+78,-38.683,178.033,Gisborne,New Zealand,554,-1,NZL,0.933
+79,-43.947,183.438,Chatham,New Zealand,554,128,NZL,0.933
+80,-23.653,289.595,Antofagasta,Chile,152,174,CHL,0.869
+81,-33.033,288.367,Valparaiso,Chile,152,175,CHL,0.869
+82,13.583,270.167,Acajutla,El Salvador,222,182,SLV,0.674
+83,-18.467,289.667,Arica,Chile,152,-1,CHL,0.869
+84,-6.933,279.283,Lobos de Afuera,Peru,604,-1,PER,0.79
+85,3.89,282.938,Buenaventura,Colombia,170,170,COL,0.782
+86,13.333,272.183,La Union,El Salvador,222,-1,SLV,0.674
+87,9.4,275.833,Quepos,Costa Rica,188,167,CRI,0.823
+88,-27.067,289.167,Caldera,Chile,152,-1,CHL,0.869
+89,-0.95,279.267,Manta,Ecuador,218,-1,ECU,0.773
+90,18.733,248.983,Socorro,Mexico,484,162,MEX,0.783
+91,-2.2,279.083,La Libertad,Ecuador,218,172,ECU,0.773
+92,-4.582,278.718,Talara,Peru,604,-1,PER,0.79
+93,-12.05,282.85,Callao,Peru,604,173,PER,0.79
+94,-17.002,287.892,Matarani,Peru,604,-1,PER,0.79
+96,-15.367,284.8,San Juan,Peru,604,-1,PER,0.79
+98,0.992,280.353,Esmeraldas,Ecuador,218,-1,ECU,0.773
+100,-35.108,138.467,Port Stanvac,Australia,36,-1,AUS,0.952
+101,-4.07,39.657,Mombasa,Kenya,404,8,KEN,0.626
+102,-6.82,39.288,Dar Es Salaam,"Tanzania, United Republic of",834,-1,TZA,0.554
+103,-20.155,57.495,Port Louis,Mauritius,480,18,MUS,0.794
+104,-7.29,72.393,Diego Garcia,United Kingdom of Great Britain and Northern Ireland (the),826,26,GBR,0.946
+105,-19.668,63.418,Rodrigues,Mauritius,480,19,MUS,0.794
+106,-4.343,55.767,Praslin,Seychelles,690,-1,SYC,0.836
+107,-0.95,100.367,Padang,Indonesia,360,45,IDN,0.726
+108,4.183,73.517,Male,Maldives,462,-1,MDV,0.764
+109,-0.687,73.152,Gan,Maldives,462,27,MDV,0.764
+110,23.628,58.565,Muscat,Oman,512,-1,OMN,0.846
+111,-4.622,55.458,Port Victoria,Seychelles,690,339,SYC,0.836
+113,20.687,58.872,Masirah,Oman,512,-1,OMN,0.846
+114,16.935,54.007,Salalah,Oman,512,4,OMN,0.846
+115,6.933,79.85,Colombo,Sri Lanka,144,33,LKA,0.777
+117,6.767,73.167,Hanimaadhoo,Maldives,462,-1,MDV,0.764
+118,8.567,97.633,Ko Miang,Thailand,764,-1,THA,0.792
+119,11.608,43.14,Djibouti,Djibouti,262,2,DJI,0.51
+121,-4.672,55.528,Pt. La Rue,Seychelles,690,339,SYC,0.836
+122,1.75,98.767,Sibolga,Indonesia,360,-1,IDN,0.726
+123,5.888,95.317,Sabang,Indonesia,360,347,IDN,0.726
+124,22.247,91.825,Chittagong,Bangladesh,50,36,BGD,0.68
+125,-8.283,111.733,Prigi,Indonesia,360,-1,IDN,0.726
+126,25.63,57.77,Jask,Iran (Islamic Republic of),364,-1,IRN,0.793
+127,-69.0,39.6,"Syowa, Antarctica",Antarctica,10,95,ATA,
+128,-32.15,133.64,Thevenard,Australia,36,308,AUS,0.952
+129,-38.343,141.613,"Portland, S.Aus.",Australia,36,55,AUS,0.952
+130,-66.283,110.533,Casey,Australia,36,278,AUS,0.952
+132,-31.825,115.738,Hillarys,Australia,36,-1,AUS,0.952
+133,-3.638,128.2,Ambon,Indonesia,360,68,IDN,0.726
+134,21.783,89.467,Hiron Point,Bangladesh,50,-1,BGD,0.68
+135,22.267,91.817,Khal #10,Bangladesh,50,-1,BGD,0.68
+136,21.45,91.833,Cox's Bazaar,Bangladesh,50,-1,BGD,0.68
+137,20.883,92.3,Teknaf,Bangladesh,50,-1,BGD,0.68
+138,22.217,91.05,Charchanga,Bangladesh,50,-1,BGD,0.68
+139,21.833,89.833,Khepupara,Bangladesh,50,-1,BGD,0.68
+140,3.05,101.358,Kelang,Malaysia,458,-1,MYS,0.81
+141,2.215,102.153,Keling,Malaysia,458,-1,MYS,0.81
+142,6.432,99.765,Langkawi,Malaysia,458,-1,MYS,0.81
+143,4.24,100.613,Lumut,Malaysia,458,43,MYS,0.81
+144,5.422,100.347,Penang,Malaysia,458,-1,MYS,0.81
+145,-13.86,136.417,Groote Eylandt,Australia,36,-1,AUS,0.952
+147,24.8,66.967,Karachi,Pakistan,586,30,PAK,0.544
+148,7.832,98.425,Ko Taphao Noi,Thailand,764,42,THA,0.792
+149,-2.272,40.903,Lamu,Kenya,404,-1,KEN,0.626
+150,-13.4,48.3,Nosy Be,Madagascar,450,15,MDG,0.483
+151,-6.155,39.19,Zanzibar,"Tanzania, United Republic of",834,297,TZA,0.554
+153,8.117,73.05,Minicoy,India,356,29,IND,0.676
+155,-12.78,45.257,Dzaoudzi,France,250,96,FRA,0.916
+157,17.683,83.283,Vishakhapatnam,India,356,35,IND,0.676
+158,-8.117,114.383,Meneng,Indonesia,360,-1,IDN,0.726
+159,-5.85,106.617,Pari,Indonesia,360,-1,IDN,0.726
+160,-7.208,112.725,Surabaya,Indonesia,360,292,IDN,0.726
+161,-6.117,106.85,Jakarta,Indonesia,360,-1,IDN,0.726
+162,-7.752,109.017,Cilicap,Indonesia,360,291,IDN,0.726
+163,-8.745,115.21,Benoa,Indonesia,360,49,IDN,0.726
+164,-20.935,55.285,Reunion,France,250,17,FRA,0.916
+165,-15.453,128.102,Wyndham,Australia,36,-1,AUS,0.952
+166,-18.0,122.217,Broome,Australia,36,40,AUS,0.952
+167,-24.898,113.652,Carnarvon,Australia,36,52,AUS,0.952
+168,-12.472,130.847,Darwin,Australia,36,62,AUS,0.952
+169,-20.317,118.567,Port Hedland,Australia,36,51,AUS,0.952
+170,-10.417,105.667,Christmas,Australia,36,47,AUS,0.952
+171,-12.117,96.9,Cocos,Australia,36,46,AUS,0.952
+172,12.788,44.975,Aden,Yemen,887,3,YEM,0.466
+173,-68.45,77.967,Davis,Australia,36,277,AUS,0.952
+174,9.967,76.267,Cochin,India,356,32,IND,0.676
+175,-32.05,115.733,Fremantle,Australia,36,53,AUS,0.952
+176,-33.867,121.9,Esperance,Australia,36,54,AUS,0.952
+177,-67.6,62.867,Mawson,Australia,36,22,AUS,0.952
+178,-46.425,51.87,Crozet,France,250,21,FRA,0.916
+179,-38.712,77.538,Saint Paul,France,250,24,FRA,0.916
+180,-49.345,70.22,Kerguelen,France,250,23,FRA,0.916
+181,-29.867,31.05,Durban,South Africa,710,13,ZAF,0.737
+182,26.233,50.6,Mina Sulman,Bahrain,48,-1,BHR,0.902
+184,-33.96,25.63,Port Elizabeth,South Africa,710,76,ZAF,0.737
+185,-34.067,22.333,Mossel Bay,South Africa,710,-1,ZAF,0.737
+186,-34.05,23.045,Knysna,South Africa,710,-1,ZAF,0.737
+187,-33.017,27.917,East London,South Africa,710,-1,ZAF,0.737
+188,-28.8,32.083,Richard's Bay,South Africa,710,-1,ZAF,0.737
+189,-66.662,140.01,Dumont d'Urville,Antarctica,10,131,ATA,
+190,-25.975,32.57,Maputo,Mozambique,508,-1,MOZ,0.49
+191,-16.232,39.902,Antonio Enes,Mozambique,508,-1,MOZ,0.49
+192,-12.968,40.487,Pemba,Mozambique,508,11,MOZ,0.49
+193,-14.463,40.68,Nacala,Mozambique,508,-1,MOZ,0.49
+201,0.92,330.657,Peter & Paul Rocks,Brazil,76,199,BRA,0.78
+202,-5.752,324.805,Natal,Brazil,76,197,BRA,0.78
+203,-3.828,327.597,Fer. de Noronha,Brazil,76,198,BRA,0.78
+204,-20.503,330.69,Trindade,Brazil,76,265,BRA,0.78
+205,28.95,346.433,Arrecife,Spain,724,-1,ESP,0.911
+206,28.683,342.25,S.Cruz d. Palma,Spain,724,-1,ESP,0.911
+207,35.9,354.683,Ceuta,Spain,724,249,ESP,0.911
+208,42.233,351.267,Vigo,Spain,724,-1,ESP,0.911
+209,38.692,350.583,Cascais,Portugal,620,246,PRT,0.883
+210,39.453,328.88,"Flores, Santa Cruz",Portugal,620,244,PRT,0.883
+211,37.735,334.328,Ponta Delgada,Portugal,620,245,PRT,0.883
+212,38.533,331.378,"Horta, Azores",Portugal,620,-1,PRT,0.883
+213,39.378,328.832,"Flores, Lajes",Portugal,620,244,PRT,0.883
+214,18.317,295.277,"Lameshur Bay, VI",United States of America (the),840,-1,USA,0.93
+215,38.65,332.76,Angra Heroismo,Portugal,620,-1,PRT,0.883
+216,16.867,335.017,Porto Grande,Portugal,620,-1,PRT,0.883
+217,28.148,344.593,Las Palmas,Spain,724,251,ESP,0.911
+218,32.64,343.093,Funchal,Portugal,620,250,PRT,0.883
+219,18.3,294.698,"Culebra, PR",United States of America (the),840,-1,USA,0.93
+220,-22.95,14.5,Walvis Bay,Namibia,516,314,NAM,0.649
+221,-34.183,18.433,Simon's Town,South Africa,710,268,ZAF,0.737
+222,14.908,336.492,"Praia, Cape Verde",Cabo Verde,132,-1,CPV,0.664
+223,14.677,342.58,Dakar,Senegal,686,253,SEN,0.526
+225,0.348,6.737,Sao Tome,Sao Tome and Principe,678,260,STP,0.636
+227,4.85,307.717,Cayenne,France,250,202,FRA,0.916
+228,28.478,343.76,Tenerife,Spain,724,-1,ESP,0.911
+229,-1.45,311.5,"Belem, USCGS",Brazil,76,-1,BRA,0.78
+230,5.242,356.0,Abidjanridi,Cote d'Ivoire,384,257,CIV,0.565
+231,4.883,358.25,Takoradi,Ghana,288,335,GHA,0.625
+233,6.423,3.412,Lagos,Nigeria,566,259,NGA,0.557
+234,-4.8,11.85,Pointe Noire,Congo (the),178,261,COG,0.644
+235,16.75,337.017,Palmeira,Cabo Verde,132,329,CPV,0.664
+236,-8.787,13.237,Luanda,Angola,24,-1,AGO,0.615
+237,-12.333,13.558,Lobito,Angola,24,262,AGO,0.615
+238,-15.192,12.145,Mocamedes,Angola,24,-1,AGO,0.615
+239,23.092,277.528,Siboney,Cuba,192,215,CUB,0.764
+240,30.672,278.533,Fernandina Beach,United States of America (the),840,-1,USA,0.93
+241,25.903,279.88,Miami,United States of America (the),840,218,USA,0.93
+242,24.553,278.192,"Key West, FL",United States of America (the),840,216,USA,0.93
+243,17.972,293.238,"Penuelas, PR",Puerto Rico,630,-1,PRI,0.93
+244,21.117,283.883,Gibara,Cuba,192,276,CUB,0.764
+245,18.46,293.883,"San Juan, PR",United States of America (the),840,206,USA,0.93
+246,17.972,292.953,"Magueyes Island, PR",United States of America (the),840,-1,USA,0.93
+247,10.617,293.067,La Guaira,Venezuela (Bolivarian Republic of),862,328,VEN,0.706
+248,10.65,298.483,Portf-Spain,Trinidad and Tobago,780,203,TTO,0.805
+249,13.1,300.383,Bridgetown,Barbados,52,-1,BRB,0.807
+250,19.2,263.867,"Veracruz, Ver.",Mexico,484,212,MEX,0.783
+251,19.907,284.853,Guantanamo Bay,Cuba,192,-1,CUB,0.764
+252,43.657,289.753,"Portland, ME",United States of America (the),840,-1,USA,0.93
+253,41.505,288.673,"Newport, RI",United States of America (the),840,290,USA,0.93
+254,17.697,295.247,Limetree Bay,United States of America (the),840,-1,USA,0.93
+255,18.335,295.08,Charlotte Amalie,United States of America (the),840,-1,USA,0.93
+256,23.773,283.895,Exuma Cays,Bahamas (the),44,12,BHS,0.818
+257,26.69,281.017,Settlement Point,Bahamas (the),44,211,BHS,0.818
+258,17.75,295.295,"Christiansted, VI",United States of America (the),840,-1,USA,0.93
+259,32.373,295.297,Bermuda,United Kingdom of Great Britain and Northern Ireland (the),826,221,GBR,0.946
+260,36.183,284.26,"Duck Pier, NC",United States of America (the),840,219,USA,0.93
+261,32.783,280.067,"Charleston, SC",United States of America (the),840,-1,USA,0.93
+262,29.857,278.738,"St. Augustine, FL",United States of America (the),840,-1,USA,0.93
+263,18.457,292.837,"Aguadilla, PR",United States of America (the),840,-1,USA,0.93
+264,39.355,285.582,Atlantic City,United States of America (the),840,220,USA,0.93
+265,10.383,284.467,Cartagena,Colombia,170,207,COL,0.782
+266,9.355,280.085,Cristobal,Panama,591,208,PAN,0.835
+267,18.09,292.062,"Mona Is., PR",United States of America (the),840,-1,USA,0.93
+268,10.0,276.967,Limon,Costa Rica,188,-1,CRI,0.823
+269,15.953,273.5,Cochino Pequeno,Honduras,340,-1,HND,0.643
+270,14.683,299.067,Le Robert,France,250,-1,FRA,0.916
+271,14.6,298.933,Fort de France,France,250,-1,FRA,0.916
+272,16.225,298.468,Pointe-Pitre,France,250,-1,FRA,0.916
+273,47.567,300.867,Port-aux-basques,Canada,124,-1,CAN,0.935
+274,58.783,265.8,Churchill,Canada,124,-1,CAN,0.935
+275,44.667,296.417,Halifax,Canada,124,222,CAN,0.935
+276,47.567,307.283,St. John's,Canada,124,223,CAN,0.935
+277,22.262,262.205,"Madero, Tampico",Mexico,484,-1,MEX,0.783
+279,41.048,288.04,"Montauk, NY",United States of America (the),840,-1,USA,0.93
+280,-22.897,316.835,"Ilha Fiscal, RJ",Brazil,76,195,BRA,0.78
+281,-25.017,312.075,Cananeia,Brazil,76,194,BRA,0.78
+282,-23.5,314.883,Ubatuba,Brazil,76,-1,BRA,0.78
+283,-3.717,321.533,Fortaleza,Brazil,76,336,BRA,0.78
+284,-4.817,322.95,Termisa,Brazil,76,-1,BRA,0.78
+285,-34.667,301.5,Buenos Aires,Argentina,32,-1,ARG,0.858
+286,-47.75,294.083,Puerto Deseado,Argentina,32,190,ARG,0.858
+287,-54.933,292.383,Puerto Williams,Chile,152,-1,CHL,0.869
+288,64.15,338.067,Reykjavik,Iceland,352,229,ISL,0.964
+289,36.117,354.65,Gibraltar,United Kingdom of Great Britain and Northern Ireland (the),826,248,GBR,0.946
+290,-51.75,302.067,Port Stanley,United Kingdom of Great Britain and Northern Ireland (the),826,305,GBR,0.946
+291,-7.917,345.583,Ascension,United Kingdom of Great Britain and Northern Ireland (the),826,263,GBR,0.946
+292,-15.917,354.283,St. Helena,"Saint Helena, Ascension and Tristan da Cunha",654,264,SHN,0.946
+293,60.155,358.86,Lerwick,United Kingdom of Great Britain and Northern Ireland (the),826,236,GBR,0.946
+294,50.102,354.458,"Newlyn, Cornwall",United Kingdom of Great Britain and Northern Ireland (the),826,241,GBR,0.946
+295,58.208,353.612,Stornoway,United Kingdom of Great Britain and Northern Ireland (the),826,238,GBR,0.946
+296,66.933,306.333,Sisimiut,Denmark,208,-1,DNK,0.959
+297,65.615,322.375,Ammassalik,Denmark,208,228,DNK,0.959
+298,69.217,308.9,Ilulissat,Denmark,208,-1,DNK,0.959
+299,60.717,313.967,Qaqortoq,Denmark,208,344,DNK,0.959
+300,8.917,280.467,Naos,Panama,591,-1,PAN,0.835
+301,13.917,269.17,Puerto Quetza,Guatemala,320,-1,GTM,0.655
+302,8.962,280.427,Balboa,Panama,591,168,PAN,0.835
+303,1.817,281.27,Tumaco,Colombia,170,171,COL,0.782
+304,8.273,277.14,Puerto Armuelles,Panama,591,-1,PAN,0.835
+305,28.1,244.817,Cedros,Mexico,484,-1,MEX,0.783
+307,31.018,245.182,San Felipe,Mexico,484,-1,MEX,0.783
+308,30.483,244.017,San Quintin,Mexico,484,-1,MEX,0.783
+310,28.958,246.45,Bahia Los Angeles,Mexico,484,-1,MEX,0.783
+313,33.45,241.517,Catalina,United States of America (the),840,-1,USA,0.93
+316,16.84,260.088,"Acapulco, Gro.",Mexico,484,267,MEX,0.783
+317,31.85,243.367,Ensenada,Mexico,484,-1,MEX,0.783
+318,14.717,267.567,Puerto Madero,Mexico,484,-1,MEX,0.783
+319,26.017,248.633,Loreto,Mexico,484,-1,MEX,0.783
+320,5.265,103.187,Cendering,Malaysia,458,293,MYS,0.81
+321,1.462,103.792,Johor Baharu,Malaysia,458,-1,MYS,0.81
+322,3.975,103.43,Kuantan,Malaysia,458,-1,MYS,0.81
+323,2.807,104.14,Tioman,Malaysia,458,-1,MYS,0.81
+324,1.932,104.115,Sedili,Malaysia,458,-1,MYS,0.81
+325,1.325,103.443,Kukup,Malaysia,458,-1,MYS,0.81
+326,6.227,102.107,Geting,Malaysia,458,-1,MYS,0.81
+327,1.263,103.822,Keppel Harbour,Singapore,702,44,SGP,0.942
+328,11.795,99.817,Ko Lak,Thailand,764,39,THA,0.792
+329,22.3,114.217,Hong Kong,Hong Kong,344,77,HKG,0.95
+330,-23.162,150.79,Rosslyn Bay,Australia,36,-1,AUS,0.952
+331,-27.367,153.167,Brisbane,Australia,36,58,AUS,0.952
+332,-24.767,152.38,Bundaberg,Australia,36,59,AUS,0.952
+333,-33.85,151.233,Fort Denison,Australia,36,57,AUS,0.952
+334,-19.25,146.833,Townsville,Australia,36,60,AUS,0.952
+335,-42.55,147.933,Spring Bay,Australia,36,56,AUS,0.952
+336,-10.6,141.917,Booby Island,Australia,36,61,AUS,0.952
+337,1.263,103.822,Victoria Dock,Singapore,702,44,SGP,0.942
+338,22.167,113.55,Macau,Portugal,620,-1,PRT,0.883
+339,-42.877,147.342,Hobart,Australia,36,-1,AUS,0.952
+340,22.615,120.288,Kaohsiung,Taiwan (Province of China),158,-1,TWN,
+341,25.155,121.752,Keelung,Taiwan (Province of China),158,-1,TWN,
+342,-34.473,150.912,Port Kembla,Australia,36,-1,AUS,0.952
+343,-19.277,147.058,Cape Ferguson,Australia,36,60,AUS,0.952
+344,-41.05,145.915,Burnie,Australia,36,-1,AUS,0.952
+345,29.833,129.85,Nakano Shima,Japan,392,-1,JPN,0.921
+347,44.017,144.283,Abashiri,Japan,392,327,JPN,0.921
+348,34.9,132.067,Hamada,Japan,392,326,JPN,0.921
+349,36.767,137.217,Toyama,Japan,392,325,JPN,0.921
+350,42.967,144.383,Kushiro,Japan,392,89,JPN,0.921
+351,39.017,141.75,Ofunato,Japan,392,87,JPN,0.921
+352,34.917,139.833,Mera,Japan,392,86,JPN,0.921
+353,33.483,135.767,Kushimoto,Japan,392,85,JPN,0.921
+354,31.567,131.417,Aburatsu,Japan,392,82,JPN,0.921
+355,26.217,127.667,Naha,Japan,392,81,JPN,0.921
+356,34.683,137.617,Maisaka,Japan,392,-1,JPN,0.921
+357,34.067,139.482,Miyakejima,Japan,392,-1,JPN,0.921
+358,32.417,131.683,Hosojima,Japan,392,-1,JPN,0.921
+359,28.4,129.498,Naze,Japan,392,-1,JPN,0.921
+360,45.4,141.683,Wakkanai,Japan,392,324,JPN,0.921
+362,32.733,129.867,Nagasaki,Japan,392,83,JPN,0.921
+363,30.735,130.992,Nishinoomote,Japan,392,-1,JPN,0.921
+364,41.783,140.717,Hakodate,Japan,392,88,JPN,0.921
+365,24.333,124.15,Ishigaki,Japan,392,-1,JPN,0.921
+370,14.583,120.967,Manila,Philippines (the),608,73,PHL,0.714
+371,13.15,123.75,Legaspi,Philippines (the),608,72,PHL,0.714
+372,7.083,125.633,Davao,Philippines (the),608,71,PHL,0.714
+373,6.067,121.0,Jolo,Philippines (the),608,70,PHL,0.714
+375,40.533,141.533,Hachinohe,Japan,392,-1,JPN,0.921
+376,24.45,118.067,Xiamen,China,156,247,CHN,0.796
+379,10.3,123.917,Cebu,Philippines (the),608,-1,PHL,0.714
+380,9.75,118.733,Puerto Princesa,Philippines (the),608,-1,PHL,0.714
+381,13.767,109.25,Qui Nhon,Viet Nam,704,75,VNM,0.764
+382,14.765,120.252,Subic Bay,Philippines (the),608,-1,PHL,0.714
+383,10.34,107.072,Vung Tau,Viet Nam,704,-1,VNM,0.764
+385,4.233,117.883,Tawau,Malaysia,458,-1,MYS,0.81
+386,5.983,116.067,Kota Kinabalu,Malaysia,458,-1,MYS,0.81
+387,3.217,113.067,Bintulu,Malaysia,458,-1,MYS,0.81
+388,4.392,113.972,Miri,Malaysia,458,-1,MYS,0.81
+389,5.81,118.067,Sandakan,Malaysia,458,-1,MYS,0.81
+391,10.28,250.778,Clipperton,France,250,165,FRA,0.916
+392,5.557,272.952,Cocos Island,Costa Rica,188,-1,CRI,0.823
+393,20.615,254.755,Vallarta,Mexico,484,-1,MEX,0.783
+394,16.16,264.797,Salina Cruz,Mexico,484,-1,MEX,0.783
+395,19.05,255.667,Manzanillo,Mexico,484,163,MEX,0.783
+396,9.967,275.167,Puntarenas,Costa Rica,188,-1,CRI,0.823
+397,27.933,249.1,Guaymas,Mexico,484,-1,MEX,0.783
+398,-35.833,174.5,Marsden Point,New Zealand,554,-1,NZL,0.933
+399,-31.517,159.067,Lord Howe,Australia,36,148,AUS,0.952
+400,-2.037,147.375,"Lombrum, Manus Is.",Papua New Guinea,598,331,PNG,0.572
+401,-13.817,188.25,Apia,Samoa,882,-1,WSM,0.703
+402,-17.605,177.438,Lautoka,Fiji,242,-1,FJI,0.726
+403,-43.983,168.617,Jackson,New Zealand,554,-1,NZL,0.933
+404,-14.272,189.427,Auasi,American Samoa,16,-1,ASM,0.93
+405,18.643,285.89,Jeremie,Haiti,332,-1,HTI,0.552
+406,18.228,286.382,St. Louis du Sud,Haiti,332,-1,HTI,0.552
+407,-14.283,189.438,Aunuu,American Samoa,16,-1,ASM,0.93
+408,-14.24,190.49,Tau,American Samoa,16,-1,ASM,0.93
+409,-14.163,190.318,Ofu,American Samoa,16,-1,ASM,0.93
+410,2.1,117.75,Lungsurannaga,Indonesia,360,-1,IDN,0.726
+411,-1.267,116.8,Balikpapan,Indonesia,360,-1,IDN,0.726
+414,-0.683,117.417,Bajor,Indonesia,360,-1,IDN,0.726
+416,-6.483,105.667,Tanjung Lesung,Indonesia,360,-1,IDN,0.726
+417,-8.5,110.783,Sadeng,Indonesia,360,-1,IDN,0.726
+418,-9.4,119.233,Waikelo,Indonesia,360,346,IDN,0.726
+419,-8.732,116.072,Lembar,Indonesia,360,-1,IDN,0.726
+420,-7.982,131.29,Saumlaki,Indonesia,360,-1,IDN,0.726
+421,21.287,202.158,Alawai,United States of America (the),840,-1,USA,0.93
+422,21.593,201.895,Haleiwa,United States of America (the),840,-1,USA,0.93
+423,21.443,202.19,Heeia,United States of America (the),840,-1,USA,0.93
+424,21.317,202.108,Keehi,United States of America (the),840,-1,USA,0.93
+425,21.45,201.803,Waianae,United States of America (the),840,-1,USA,0.93
+428,21.082,202.972,"Kaunakakai, Hawaii",United States of America (the),840,-1,USA,0.93
+429,20.742,203.112,Manele Bay,United States of America (the),840,-1,USA,0.93
+430,19.668,203.977,Honokohau,United States of America (the),840,-1,USA,0.93
+431,19.185,204.093,Milolii,United States of America (the),840,-1,USA,0.93
+432,22.21,200.502,"Hanalei, HI",United States of America (the),840,-1,USA,0.93
+433,21.902,200.41,Port Allen,United States of America (the),840,-1,USA,0.93
+434,21.367,202.037,Pearl Harbor,United States of America (the),840,-1,USA,0.93
+453,-14.292,181.843,"Leava, Futuna Island",France,250,353,FRA,0.916
+454,-16.598,216.338,Makemo,French Polynesia,258,354,PYF,0.916
+455,-14.945,212.293,Rangiroa Atoll,France,250,355,FRA,0.916
+456,-23.342,210.525,Tubuai,France,250,356,FRA,0.916
+540,54.317,229.667,Prince Rupert,Canada,124,155,CAN,0.935
+541,48.833,234.867,Bamfield,Canada,124,-1,CAN,0.935
+542,49.15,234.083,Tofino,Canada,124,156,CAN,0.935
+543,48.425,236.63,"Victoria, BC",Canada,124,-1,CAN,0.935
+545,34.555,239.39,Vandenberg,United States of America (the),840,-1,USA,0.93
+547,21.322,201.88,"Barbers Point, HI",United States of America (the),840,-1,USA,0.93
+548,20.78,203.1,"Kaumalapau, HI",United States of America (the),840,-1,USA,0.93
+550,52.833,173.2,"Massacre Bay, AK",United States of America (the),840,303,USA,0.93
+551,37.807,237.535,"San Francisco, CA",United States of America (the),840,158,USA,0.93
+552,20.033,204.167,Kawaihae,United States of America (the),840,-1,USA,0.93
+554,32.867,242.742,"La Jolla, CA",United States of America (the),840,159,USA,0.93
+555,36.605,238.112,"Monterey, CA",United States of America (the),840,-1,USA,0.93
+556,41.745,235.817,"Crescent City, CA",United States of America (the),840,-1,USA,0.93
+557,42.74,235.503,"Port Orford, OR",United States of America (the),840,-1,USA,0.93
+558,48.368,235.383,"Neah Bay, WA",United States of America (the),840,-1,USA,0.93
+559,57.052,224.658,"Sitka, AK",United States of America (the),840,154,USA,0.93
+560,60.12,210.573,"Seward, AK",United States of America (the),840,150,USA,0.93
+561,59.44,208.28,"Seldovia, AK",United States of America (the),840,-1,USA,0.93
+562,61.125,213.638,"Valdez, AK",United States of America (the),840,-1,USA,0.93
+564,46.708,236.035,"Willapa Bay, WA",United States of America (the),840,-1,USA,0.93
+565,35.177,239.24,"Port San Luis, CA",United States of America (the),840,-1,USA,0.93
+567,33.72,241.728,"Los Angeles, CA",United States of America (the),840,-1,USA,0.93
+569,32.715,242.827,San Diego,United States of America (the),840,-1,USA,0.93
+570,59.548,220.265,"Yakutat, AK",United States of America (the),840,-1,USA,0.93
+571,55.333,228.375,"Ketchikan, AK",United States of America (the),840,-1,USA,0.93
+572,46.208,236.233,"Astoria, OR",United States of America (the),840,-1,USA,0.93
+573,38.913,236.292,"Arena Cove, CA",United States of America (the),840,-1,USA,0.93
+574,55.337,199.498,"Sand Point, AK",United States of America (the),840,100,USA,0.93
+575,43.345,235.678,"Charleston, OR",United States of America (the),840,-1,USA,0.93
+576,40.767,235.783,"Humboldt Bay, CA",United States of America (the),840,-1,USA,0.93
+577,34.408,240.315,"Santa Barbara, CA",United States of America (the),840,-1,USA,0.93
+578,34.008,241.5,"Santa Monica, CA",United States of America (the),840,-1,USA,0.93
+579,70.4,211.473,"Prudhoe Bay, AK",United States of America (the),840,151,USA,0.93
+583,60.558,214.247,"Cordova, Alaska",United States of America (the),840,-1,USA,0.93
+584,48.125,236.56,"Port Angeles, WA",United States of America (the),840,-1,USA,0.93
+590,-17.517,210.483,Matavai,France,250,140,FRA,0.916
+592,44.625,235.957,"South Beach, OR",United States of America (the),840,157,USA,0.93
+594,34.468,239.327,"Harvest Oil P., CA",United States of America (the),840,-1,USA,0.93
+595,64.5,194.57,"Nome, AK",United States of America (the),840,74,USA,0.93
+598,-19.033,190.083,Alofi,Niue,570,-1,NIU,0.933
+599,-56.508,291.285,Diego Ramirez,Chile,152,180,CHL,0.869
+600,-54.805,291.705,Ushuaia,Argentina,32,181,ARG,0.858
+601,-63.395,303.005,Esperanza,Argentina,32,185,ARG,0.858
+626,64.4,186.8,Providenya,Russian Federation (the),643,309,RUS,0.826
+630,38.925,121.658,Dalian,China,156,79,CHN,0.796
+631,38.867,121.683,Laohutan,China,156,79,CHN,0.796
+632,28.088,121.282,Kanmen,China,156,94,CHN,0.796
+633,32.133,121.617,Lusi,China,156,283,CHN,0.796
+635,21.583,111.833,Zhapo,China,156,78,CHN,0.796
+636,21.483,109.083,Beihai,China,156,-1,CHN,0.796
+637,19.1,108.617,Dongfang,China,156,-1,CHN,0.796
+638,20.017,110.283,Haikou,China,156,-1,CHN,0.796
+639,34.75,119.417,Lianyungang,China,156,-1,CHN,0.796
+641,22.75,115.35,Shanwei,China,156,-1,CHN,0.796
+642,35.383,119.55,Shijiusuo,China,156,-1,CHN,0.796
+650,20.667,106.817,Hon Dau,Viet Nam,704,-1,VNM,0.764
+651,18.083,106.283,Vung Ang,Viet Nam,704,-1,VNM,0.764
+654,17.988,120.488,Currimao,Philippines (the),608,-1,PHL,0.714
+655,13.817,120.202,Lubang,Philippines (the),608,-1,PHL,0.714
+663,-77.85,166.767,Scott Base,New Zealand,554,134,NZL,0.933
+665,-44.383,171.25,Timaru,New Zealand,554,-1,NZL,0.933
+667,-43.6,172.717,Lyttelton,New Zealand,554,-1,NZL,0.933
+668,-39.483,176.917,Napier,New Zealand,554,-1,NZL,0.933
+669,-45.817,170.65,Port Chalmers,New Zealand,554,-1,NZL,0.933
+670,14.3,268.083,Champerico,Guatemala,320,-1,GTM,0.655
+671,24.162,249.655,La Paz,Mexico,484,-1,MEX,0.783
+672,15.657,263.507,Puerto Angel,Mexico,484,164,MEX,0.783
+673,23.198,253.578,Mazatlan,Mexico,484,-1,MEX,0.783
+674,24.79,247.88,San Carlos,Mexico,484,-1,MEX,0.783
+675,13.917,269.167,San Jose,Guatemala,320,-1,GTM,0.655
+676,25.6,250.952,Topolobampo,Mexico,484,-1,MEX,0.783
+677,26.703,250.487,Yavaros,Mexico,484,-1,MEX,0.783
+678,-5.083,278.833,Paita,Peru,604,-1,PER,0.79
+679,12.478,272.832,Corinto,Nicaragua,558,-1,NIC,0.701
+680,-54.483,158.967,Macquarie Is.,Australia,36,130,AUS,0.952
+681,-68.133,292.9,San Martin,Argentina,32,-1,ARG,0.858
+682,-62.233,301.317,Dallmann,Argentina,32,-1,ARG,0.858
+683,-13.417,283.867,Pisco,Peru,604,-1,PER,0.79
+684,-41.483,287.033,Puerto Montt,Chile,152,178,CHL,0.869
+687,17.637,258.442,"Zihuatenajo, Gro.",Mexico,484,-1,MEX,0.783
+698,14.96,145.618,Tinian,Northern Mariana Islands (the),580,-1,MNP,0.93
+699,1.262,103.853,Tanjong Pagar,Singapore,702,44,SGP,0.942
+700,-65.25,295.733,Faraday,Antarctica,10,188,ATA,
+701,-29.25,16.867,Port Nolloth,South Africa,710,-1,ZAF,0.737
+702,-26.65,15.15,Luderitz,South Africa,710,-1,ZAF,0.737
+703,-33.017,17.95,Saldahna Bay,South Africa,710,-1,ZAF,0.737
+704,-33.9,18.417,Cape Town,South Africa,710,-1,ZAF,0.737
+705,75.383,263.05,L. Cornwallis I.,Canada,124,153,CAN,0.935
+707,-15.667,321.033,"Canavieiras, USCGS",Brazil,76,-1,BRA,0.78
+708,-12.973,321.483,Salvador,Brazil,76,334,BRA,0.78
+709,-22.933,316.867,"Rio de Janeiro, CG",Brazil,76,195,BRA,0.78
+710,-8.35,325.05,Suape,Brazil,76,-1,BRA,0.78
+711,-2.867,318.328,Luis Correia,Brazil,76,-1,BRA,0.78
+712,-8.05,325.133,"Recife, USCGS",Brazil,76,-1,BRA,0.78
+714,-32.138,307.897,Rio Grande,Brazil,76,193,BRA,0.78
+715,-2.565,315.622,Madeira,Brazil,76,200,BRA,0.78
+716,-0.057,308.82,Santana,Brazil,76,201,BRA,0.78
+717,-0.062,308.84,Santana SSN,Brazil,76,201,BRA,0.78
+718,-28.23,311.35,Imbituba,Brazil,76,351,BRA,0.78
+719,-22.385,318.23,Macae,Brazil,76,352,BRA,0.78
+720,21.483,288.467,South Caicos,United Kingdom of Great Britain and Northern Ireland (the),826,296,GBR,0.946
+721,21.283,270.333,"Progreso, Yuc.",Mexico,484,213,MEX,0.783
+722,-37.05,347.7,Tristan da Cunha,United Kingdom of Great Britain and Northern Ireland (the),826,266,GBR,0.946
+723,37.098,351.332,"Lagos, Algarve",Portugal,620,-1,PRT,0.883
+724,14.042,276.618,Puerto Cabezas,Nicaragua,558,-1,NIC,0.701
+727,25.083,282.65,Nassau,Bahamas (the),44,-1,BHS,0.818
+728,10.1,298.583,Point Fortin,Trinidad and Tobago,780,-1,TTO,0.805
+729,-38.035,302.462,Mar del Plata,Argentina,32,192,ARG,0.858
+730,-62.478,300.335,Base Prat,Chile,152,189,CHL,0.869
+731,-42.763,294.97,Puerto Madryn,Argentina,32,191,ARG,0.858
+732,18.152,294.557,"Isabel Segunda, PR",Puerto Rico,630,-1,PRI,0.93
+733,18.093,294.53,"Esperanza, PR",Puerto Rico,630,-1,PRI,0.93
+734,18.055,294.168,"Yabucoa Harbor, PR",United States of America (the),840,-1,USA,0.93
+735,18.48,293.298,"Arecibo, PR",Puerto Rico,630,-1,PRI,0.93
+736,18.22,292.84,"Mayaguez, PR",Puerto Rico,630,-1,PRI,0.93
+737,12.57,278.298,San Andres,Colombia,170,-1,COL,0.782
+738,11.235,285.778,Santa Marta,Colombia,170,-1,COL,0.782
+739,9.558,281.052,El Porvenir,Panama,591,-1,PAN,0.835
+740,44.903,293.015,"Eastport, ME",United States of America (the),840,-1,USA,0.93
+741,42.355,288.948,"Boston, MA",United States of America (the),840,-1,USA,0.93
+742,41.523,289.328,"Woods Hole, MA",United States of America (the),840,-1,USA,0.93
+743,41.285,289.903,"Nantucket, MA",United States of America (the),840,-1,USA,0.93
+744,41.355,287.913,"New London, CT",United States of America (the),840,-1,USA,0.93
+745,40.7,285.985,"New York, NY",United States of America (the),840,-1,USA,0.93
+746,38.968,285.04,"Cape May, NJ",United States of America (the),840,-1,USA,0.93
+747,38.782,284.88,"Lewes, DE",United States of America (the),840,-1,USA,0.93
+749,36.967,283.887,Chesapeake BBT,United States of America (the),840,-1,USA,0.93
+750,34.227,282.047,"Wilmington, NC",United States of America (the),840,-1,USA,0.93
+752,32.033,279.098,"Fort Pulaski, GA",United States of America (the),840,289,USA,0.93
+753,30.395,278.568,"Mayport, FL",United States of America (the),840,-1,USA,0.93
+754,28.368,279.4,"Cocoa Beach, FL",United States of America (the),840,-1,USA,0.93
+755,25.732,279.838,"Virginia Key, FL",United States of America (the),840,218,USA,0.93
+757,26.13,278.193,"Naples, FL",United States of America (the),840,-1,USA,0.93
+759,27.76,277.373,"St. Petersburg, FL",United States of America (the),840,-1,USA,0.93
+760,29.727,275.018,"Apalachicola, FL",United States of America (the),840,-1,USA,0.93
+761,30.213,274.12,Panama City Beach,United States of America (the),840,-1,USA,0.93
+762,30.403,272.787,"Pensacola, FL",United States of America (the),840,288,USA,0.93
+763,30.25,271.925,"Dauphin Island, AL",United States of America (the),840,-1,USA,0.93
+764,28.99,270.86,"South Pass, LA",United States of America (the),840,-1,USA,0.93
+765,29.263,270.043,"Grand Isle, LA",United States of America (the),840,-1,USA,0.93
+766,29.73,266.13,"Sabine Pass N, TX",United States of America (the),840,-1,USA,0.93
+767,29.285,265.212,"Galveston, P.Pier",United States of America (the),840,217,USA,0.93
+769,28.022,262.953,"Rockport, TX",United States of America (the),840,-1,USA,0.93
+770,27.58,262.783,"Corpus Cristi, TX",United States of America (the),840,-1,USA,0.93
+772,26.06,262.785,"Port Isabel, TX",United States of America (the),840,-1,USA,0.93
+773,27.977,277.168,"Clearwater Bch, FL",United States of America (the),840,-1,USA,0.93
+774,28.415,279.407,"Port Canaveral, FL",United States of America (the),840,-1,USA,0.93
+775,29.31,265.207,"Galveston, Pier 21",United States of America (the),840,217,USA,0.93
+776,18.505,291.625,Punta Cana,Dominican Republic (the),214,-1,DOM,0.778
+777,19.8,289.3,Puerto Plata,Dominican Republic (the),214,-1,DOM,0.778
+778,12.103,291.058,Willemstad,Curacao,531,-1,CUW,0.953
+779,18.533,268.167,Ciudad del Carmen,Mexico,484,-1,MEX,0.783
+780,15.833,272.05,Puerto Cortes,Honduras,340,-1,HND,0.643
+781,17.5,271.817,Belize,Belize,84,-1,BLZ,0.717
+782,17.933,283.15,Port Royal,Jamaica,388,210,JAM,0.718
+783,18.335,294.37,"Fajardo, PR",Puerto Rico,630,-1,PRI,0.93
+784,16.017,273.967,Puerto Castilla,Honduras,340,-1,HND,0.643
+786,15.3,298.6,Roseau,Dominica,212,-1,DMA,0.759
+789,12.005,298.235,Prickley Bay,Grenada,308,-1,GRD,0.789
+799,18.567,287.65,Portu-Prince,Haiti,332,209,HTI,0.552
+800,69.317,16.15,Andenes,Norway,578,322,NOR,0.967
+801,70.983,25.983,Honningsvag,Norway,578,-1,NOR,0.967
+802,61.933,5.117,Maloy,Norway,578,-1,NOR,0.967
+803,64.867,11.25,Rorvik,Norway,578,234,NOR,0.967
+804,58.0,7.567,Tregde,Norway,578,321,NOR,0.967
+805,70.333,31.1,Vardo,Norway,578,323,NOR,0.967
+806,18.1,344.05,Nouakchott,Mauritania,478,-1,MRT,0.562
+807,31.212,29.923,Alexandria,Egypt,818,349,EGY,0.751
+808,76.0,292.0,Thule (Pituffik),Denmark,208,343,DNK,0.959
+809,70.483,338.017,Ittoqqortoormiit,Denmark,208,315,DNK,0.959
+816,4.217,9.133,Port Sonara,Cameroon,120,350,CMR,0.581
+817,72.787,303.858,Upernavik harbour,Greenland,304,-1,GRL,0.959
+818,58.35,11.215,Smogen,Sweden,752,-1,SWE,0.959
+819,57.683,11.8,Goteborgorsh.,Sweden,752,233,SWE,0.959
+820,64.172,308.28,"Nuuk, Godthaab",Denmark,208,225,DNK,0.959
+822,48.383,355.505,Brest,France,250,242,FRA,0.916
+823,78.933,11.933,Nylesund,Norway,578,345,NOR,0.967
+824,43.278,5.353,Marseille,France,250,205,FRA,0.916
+825,53.867,8.717,Cuxhaven,Germany,276,284,DEU,0.955
+826,59.317,18.083,Stockholm,Sweden,752,341,SWE,0.959
+829,45.647,13.76,Trieste,Italy,380,340,ITA,0.905
+830,43.367,351.6,La Coruna,Spain,724,243,ESP,0.911
+832,-67.567,291.867,Rothera,United Kingdom of Great Britain and Northern Ireland (the),826,342,GBR,0.946
+833,56.55,298.317,Nain,Canada,124,224,CAN,0.935
+834,55.367,352.667,Malin Head,Ireland,372,239,IRL,0.947
+835,51.65,350.097,Castletownbere,Ireland,372,330,IRL,0.947
+836,82.492,297.683,Alert,Canada,124,333,CAN,0.935
+837,54.567,11.933,Gedser,Denmark,208,-1,DNK,0.959
+838,56.1,12.467,Hornbaek,Denmark,208,-1,DNK,0.959
+850,5.285,307.415,Ile Royale,France,250,-1,FRA,0.916
+851,5.288,307.413,"I Royal, AnseLegoff",France,250,-1,FRA,0.916
+860,20.868,273.133,Puerto Moreles,Mexico,484,-1,MEX,0.783
+861,20.858,269.597,Celestun,Mexico,484,-1,MEX,0.783
+862,21.34,270.692,"Telchac, Yuk.",Mexico,484,-1,MEX,0.783
+878,12.187,290.98,Bullen Bay,Curacao,531,-1,CUW,0.953
+900,-23.917,35.5,Inhambane,Mozambique,508,10,MOZ,0.49
+906,16.483,97.617,Moulmein,Myanmar,104,141,MMR,0.606
+907,20.14,92.903,Akyab (Sittwe),Myanmar,104,37,MMR,0.606
+908,11.683,92.767,Port Blair,India,356,38,IND,0.676
+913,0.555,97.822,Telukdalam,Indonesia,360,-1,IDN,0.726
+914,5.128,96.132,Meulaboh,Indonesia,360,-1,IDN,0.726
+915,25.297,60.603,Chabahar,Iran (Islamic Republic of),364,337,IRN,0.793
+920,-46.867,37.867,Marion Island,South Africa,710,20,ZAF,0.737
+922,-10.283,40.183,Mtwara,"Tanzania, United Republic of",834,9,TZA,0.554
